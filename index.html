@@ -1,86 +1,127 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<!DOCTYPE html> 
+<html>
 <head>
-<!-- CSS  -->
-<link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
-<style>
-.intro {
-  border: none;
-  color: white;
-  background-color: blue;
-  padding: 12px 24px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 18px;
-  font-weight: bold;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: text;
-}
+  <!-- Kode menampilkan peringatan untuk mengaktifkan javascript-->
 
-.button {
-  border: none;
-  color: white;
-  padding: 12px 24px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 18px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
+<div align="center"><noscript>
+   <div style="position:fixed; top:0px; left:0px; z-index:3000; height:100%; width:100%; background-color:#FFFFFF">
+   <div style="font-family: Arial; font-size: 17px; background-color:#00bbf9; padding: 11pt;">Mohon aktifkan javascript pada browser untuk mengakses halaman ini!</div></div>
+</noscript></div>
 
-.skaiButton {
-  background-color: white;
-  color: black;
-  border: 2px solid #008CBA;
-}
+<!--Kode untuk mencegah seleksi teks, block teks dll.-->
+<script type="text/javascript">
+function disableSelection(e){if(typeof e.onselectstart!="undefined")e.onselectstart=function(){return false};else if(typeof e.style.MozUserSelect!="undefined")e.style.MozUserSelect="none";else e.onmousedown=function(){return false};e.style.cursor="default"}window.onload=function(){disableSelection(document.body)}
+</script>
 
-.skaiButton:hover {
-  background-color: #008CBA;
-  color: white;
+<!--Kode untuk mematikan fungsi klik kanan di blog-->
+<script type="text/javascript">
+function mousedwn(e){try{if(event.button==2||event.button==3)return false}catch(e){if(e.which==3)return false}}document.oncontextmenu=function(){return false};document.ondragstart=function(){return false};document.onmousedown=mousedwn
+</script>
+
+<style type="text/css">
+* : (input, textarea) {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+
 }
 </style>
-<!-- JS code -->
-<!-- Video JS Libraries -->
-    <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
-    <script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
-</head>
+
+<style type="text/css">
+img {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+    }
+</style>
+
+<!--Kode untuk mencegah shorcut keyboard, view source dll.-->
+<script type="text/javascript">
+window.addEventListener("keydown",function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){e.preventDefault()}});document.keypress=function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){}return false}
+</script>
+<!-- Kode melindungi artikel http://blog.finderonly.net -->
+<script type="text/javascript">
+document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==18){return false}}
+</script>
+  <body oncontextmenu="return false">
+    
+    <script type="text/javascript">
+    function mousehandler(e) {
+        var myevent = (isNS) ? e : event;
+        var eventbutton = (isNS) ? myevent.which : myevent.button;
+        if ((eventbutton == 2) || (eventbutton == 3)) return false;
+    }
+    document.oncontextmenu = mischandler;
+    document.onmousedown = mousehandler;
+    document.onmouseup = mousehandler;
+    function disableCtrlKeyCombination(e) {
+        var forbiddenKeys = new Array("a", "s", "c", "x","u");
+        var key;
+        var isCtrl;
+        if (window.event) {
+            key = window.event.keyCode;
+            //IE
+            if (window.event.ctrlKey)
+                isCtrl = true;
+            else
+                isCtrl = false;
+        }
+        else {
+            key = e.which;
+            //chrome
+            if (e.ctrlKey)
+                isCtrl = true;
+            else
+                isCtrl = false;
+        }
+        if (isCtrl) {
+            for (i = 0; i < forbiddenKeys.length; i++) {
+                //case-insensitive comparation
+                if (forbiddenKeys[i].toLowerCase() == String.fromCharCode(key).toLowerCase()) {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+</script>
+    
+  <SCRIPT language=JavaScript>
+
+<!-- http://www.spacegun.co.uk -->
+
+var message = "**Ayooo mau ngapain???Kepo ya??**";
+
+function rtclickcheck(keyp){ if (navigator.appName == "Netscape" && keyp.which == 3){ alert(message); return false; }
+
+if (navigator.appVersion.indexOf("MSIE") != -1 && event.button == 2) { alert(message); return false; } }
+
+document.onmousedown = rtclickcheck;
+
+</SCRIPT>
 
 <body>
-<!-- HTML -->
-<button class="intro" disabled>Welcome to GerobaG TV!</button>
-<button class="button skaiButton", onclick="skaiNews()">i News</button>
-<button class="button skaiButton", onclick="skaiTV()">Sports Live TV</button>
-<button class="button skaiButton", onclick="ertWorld()">Music Live TV</button>
-<video id='papouTV'  class="video-js vjs-default-skin" width="1250" height="500" controls>
-<source type="application/x-mpegURL" src="">
-</video>
-<!-- Page Script -->
-    <script>
-    var newsURL = "https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999";
-    var liveURL = "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8";
-    var ertWorldURL = "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8";
 
-    var player = videojs('papouTV');
+  </body>
 
-    function skaiNews() {
-    	player.src({type: "application/x-mpegURL", src: newsURL});
-    	player.play();
-    }
-    function skaiTV() {
-    	player.src({type: "application/x-mpegURL", src: liveURL});
-    	player.play();
-    }
-    function ertWorld() {
-    	player.src({type: "application/x-mpegURL", src: ertWorldURL});
-    	player.play();
-    }
-    skaiNews()
-    </script>
-</body>
-</html>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>SSGeratisyan</title>
+  <body style="background-color: #eb11eb;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLY6wisWFZ5YL9GJ_AY8OMsbvdTEu2k97kyIWrYl5p2Ng6bRA31FKFpppQy2bxlPEMPf8&usqp=CAU" alt="SSGk" />
+    <a href="https://info.flagcounter.com/deR0"><img src="https://s04.flagcounter.com/count/deR0/bg_EC40FF/txt_000000/border_CCCCCC/columns_6/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLY6wisWFZ5YL9GJ_AY8OMsbvdTEu2k97kyIWrYl5p2Ng6bRA31FKFpppQy2bxlPEMPf8&usqp=CAU" alt="SSGk" />
+   
+<!-- clock widget start -->
+<script type="text/javascript"> var css_file=document.createElement("link"); css_file.setAttribute("rel","stylesheet"); css_file.setAttribute("type","text/css"); css_file.setAttribute("href","//s.bookcdn.com//css/cl/bw-cl-m200x.css?v=0.0.1"); document.getElementsByTagName("head")[0].appendChild(css_file); </script> <div id="tw_10_526351495"><div style="width:200px; height:252px; margin: 0 auto;"><a href="https://booked.net/time/gaza-339486">Gaza</a><br/><a href="https://booked.net/time/new-york-18103">New York</a><br/><a href="https://booked.net/time/cairo-922">Cairo</a><br/><a href="https://booked.net/time/london-18114">London</a><br/><a href="https://booked.net/time/perth-30425">Perth</a><br/><a href="https://booked.net/time/jakarta-18977">Jakarta</a><br/></div></div> <script type="text/javascript"> function setWidgetData_526351495(data){ if(typeof(data) != 'undefined' && data.results.length > 0) { for(var i = 0; i < data.results.length; ++i) { var objMainBlock = ''; var params = data.results[i]; objMainBlock = document.getElementById('tw_'+params.widget_type+'_'+params.widget_id); if(objMainBlock !== null) objMainBlock.innerHTML = params.html_code; } } } var clock_timer_526351495 = -1; widgetSrc = "https://widgets.booked.net/time/info?ver=2;domid=209;type=10;id=526351495;scode=124;city_id=339486,18103,922,18114,30425,18977;wlangid=1;mode=1;details=0;background=ffffff;border_color=ffffff;color=333333;add_background=4e7178;add_color=12525e;head_color=ffffff;border=0;transparent=0"; var widgetUrl = location.href; widgetSrc += '&ref=' + widgetUrl; var wstrackId = ""; if (wstrackId) { widgetSrc += ';wstrackId=' + wstrackId + ';' } var timeBookedScript = document.createElement("script"); timeBookedScript.setAttribute("type", "text/javascript"); timeBookedScript.src = widgetSrc; document.body.appendChild(timeBookedScript); </script>
+<!-- clock widget end -->
+   
+  <!-- SCM Music Player https://www.scmplayer.net -->
+<script type="text/javascript" src="https://www.scmplayer.net/script.js" 
+data-config="{'skin':'skins/scmOrange/skin.css','volume':50,'autoplay':true,'shuffle':true,'repeat':1,'placement':'top','showplaylist':false,'playlist':[{'title':'METAL 10x','url':'https://www.youtube.com/watch?v=PFrywHR_vQA&ab_channel=Matthewfortier792'},{'title':'ANOTHER METAL 10x','url':'https://www.youtube.com/watch?v=b41KuBY9Mhc&ab_channel=JorgeGonzalez'},{'title':'TECHnical METAL','url':'https://www.youtube.com/watch?v=We9YTFqQJiA&ab_channel=Unexysted'},{'title':'MeL0diC PunkS','url':'https://www.youtube.com/watch?v=6TV-GwwP3EM&ab_channel=ASRIELO'},{'title':'SOFT ROCKS','url':'https://www.youtube.com/watch?v=-s7lLj2Cjss&ab_channel=RelaxSoftMusic'},{'title':'POWER','url':'https://www.youtube.com/watch?v=hIYK5cOdBEg&ab_channel=EncyclopediaofPowerMetal'},{'title':'BALLADS','url':'https://www.youtube.com/watch?v=7iy6qh0sqBI&ab_channel=SlowRockMusic'},{'title':'INDIE ROCK','url':'https://www.youtube.com/watch?v=oVi5gtzTDx0&ab_channel=NiceGuys'},{'title':'DOOM','url':'https://www.youtube.com/watch?v=dGfdGZ8cH-o&ab_channel=SolitudeProductions'},{'title':'GRIND','url':'https://www.youtube.com/watch?v=3pdF0zUEJPc&ab_channel=Death%2CGore%26Grindcore'},{'title':'Lo Fi','url':'https://www.youtube.com/watch?v=J1NV6CUJl18&t=0s&ab_channel=DADABOTS'},{'title':'The Oi skinheads','url':'https://www.youtube.com/watch?v=093vnU5k6CY&ab_channel=Dalton'},{'title':'HeaVyMetaL','url':'https://www.youtube.com/watch?v=6fGyf80QU_Y&ab_channel=MusicInfinity'},{'title':'SkAPunK','url':'https://www.youtube.com/watch?v=VCtB6Njhzbc&ab_channel=YoDubMixesProd'},{'title':'HArDc0rE','url':'https://www.youtube.com/watch?v=jS5H7cQdDN8&ab_channel=Hardcoreismorethanmusic'},{'title':'P0stPunks','url':'https://www.youtube.com/watch?v=fsDU0EuouJE&ab_channel=%E4%BB%8E%CE%B1%D1%8F%D0%BC%CF%83%D1%82%CE%B1'},{'title':'5t0NerRock','url':'https://www.youtube.com/watch?v=qRPLSKF3dXg&ab_channel=CosmicFuzzFm'},{'title':'Sp@ceRock','url':'https://www.youtube.com/watch?v=ors0wpcVDcc&ab_channel=UnderratedAlbums'},{'title':'nu Metal','url':'https://www.youtube.com/watch?v=sRXnJYeGGFU&ab_channel=CHaviRese%C3%B1aWeas'},{'title':'Hair&80smetal','url':'https://www.youtube.com/watch?v=czN_8_uV91g&ab_channel=UnitedByRock'},{'title':'HardRock','url':'https://www.youtube.com/watch?v=6aBxbJgbffQ'},{'title':'Glamrock','url':'https://www.youtube.com/watch?v=HiiIf0Rp1A4&ab_channel=UnitedByRock'},{'title':'NWOBHM','url':'https://www.youtube.com/watch?v=fVwtoNspe44&ab_channel=TheClassicHeavyMetalVault'},{'title':'THRASH','url':'https://www.youtube.com/watch?v=WTRC2Dk6x2Q&ab_channel=MusicRadioCompilation'},{'title':'getThrasH','url':'https://www.youtube.com/watch?v=EnCSsZUdGB0&ab_channel=soulsickk%5Cm/'},{'title':'Sp333dMetaL','url':'https://www.youtube.com/watch?v=AHe06noXe6s&ab_channel=Rommel'},{'title':'Rock of Love','url':'https://www.youtube.com/watch?v=DQ2Ru2obvQE&ab_channel=LoveSongsCollection'},{'title':'MLTRx','url':'https://www.youtube.com/watch?v=RVWuvWUdQXo&ab_channel=SweetMusic'},{'title':'ROCK SLOW but SURE','url':'https://www.youtube.com/watch?v=z9CTUNFvpaY&ab_channel=ROCKBLUE'},{'title':'ASupsx','url':'https://www.youtube.com/watch?v=xhuc3UzlSYo&ab_channel=JustinGaming'},{'title':'Sk8Punxxs','url':'https://www.youtube.com/watch?v=YgoByTQ82hA&ab_channel=ASRIELO'}]}" ></script>
+<!-- SCM Music Player script end -->
+
+    </body>
+    </html>
+<noscript>
+<!DOCTYPE html>
+<html>
+<head>
