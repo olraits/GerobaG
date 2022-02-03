@@ -54,33 +54,33 @@
 <body>
 <!-- HTML -->
 <button class="intro" disabled>Welcome to GerobaG TV!</button>
-<button class="button gButton", onclick="ANews()">ANews</button>
-<button class="button gButton", onclick="SportsLiveTV()">SportsLiveTV</button>
-<button class="button gButton", onclick="MusicLiveTV()">MusicLiveTV</button>
+<button class="button gButton", onclick="aNews()">A News</button>
+<button class="button gButton", onclick="sportsLiveTV()">Sports Live TV</button>
+<button class="button gButton", onclick="musicLiveTV()">Music Live TV</button>
 <video id='GerobaGTV'  class="video-js vjs-default-skin" width="1250" height="500" controls>
 <source type="application/x-mpegURL" src="">
 </video>
 <!-- Page Script -->
     <script>
-    var ANewsURL = "https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8";
-    var SportsliveURL = "http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8";
-    var MusicLiveURL = "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8";
+    var aNewsURL = "https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8";
+    var sportsLiveTVURL = "http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8";
+    var musicLiveTVURL = "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8";
 
     var player = videojs('GerobaGTV');
 
-    function skaiNews() {
-    	player.src({type: "application/x-mpegURL", src: AnewsURL});
+    function aNews() {
+    	player.src({type: "application/x-mpegURL", src: aNewsURL});
     	player.play();
     }
-    function skaiTV() {
-    	player.src({type: "application/x-mpegURL", src: SportsliveURL});
+    function sportsLiveTV() {
+    	player.src({type: "application/x-mpegURL", src: sportsLiveTVURL});
     	player.play();
     }
-    function ertWorld() {
-    	player.src({type: "application/x-mpegURL", src: MusicLiveURL});
+    function musicLiveTV() {
+    	player.src({type: "application/x-mpegURL", src: musicLiveTVURL});
     	player.play();
     }
-    ANews()
+    aNews()
     </script>
 </body>
 </html>
