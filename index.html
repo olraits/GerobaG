@@ -33,13 +33,13 @@
   cursor: pointer;
 }
 
-.gButton {
+.skaiButton {
   background-color: white;
   color: black;
   border: 2px solid #008CBA;
 }
 
-.gButton:hover {
+.skaiButton:hover {
   background-color: #008CBA;
   color: white;
 }
@@ -54,33 +54,33 @@
 <body>
 <!-- HTML -->
 <button class="intro" disabled>Welcome to GerobaG TV!</button>
-<button class="button gButton", onclick="aNews()">A News</button>
-<button class="button gButton", onclick="sportsLiveTV()">Sports Live TV</button>
-<button class="button gButton", onclick="musicLiveTV()">Music Live TV</button>
-<video id='GerobaGTV'  class="video-js vjs-default-skin" width="1250" height="500" controls>
+<button class="button skaiButton", onclick="skaiNews()">i News</button>
+<button class="button skaiButton", onclick="skaiTV()">Sports Live TV</button>
+<button class="button skaiButton", onclick="ertWorld()">Music Live TV</button>
+<video id='papouTV'  class="video-js vjs-default-skin" width="1250" height="500" controls>
 <source type="application/x-mpegURL" src="">
 </video>
 <!-- Page Script -->
     <script>
-    var aNewsURL = "https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8";
-    var sportsLiveTVURL = "http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8";
-    var musicLiveTVURL = "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8";
+    var newsURL = "https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999";
+    var liveURL = "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8";
+    var ertWorldURL = "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8";
 
-    var player = videojs('GerobaGTV');
+    var player = videojs('papouTV');
 
-    function aNews() {
-    	player.src({type: "application/x-mpegURL", src: aNewsURL});
+    function skaiNews() {
+    	player.src({type: "application/x-mpegURL", src: newsURL});
     	player.play();
     }
-    function sportsLiveTV() {
-    	player.src({type: "application/x-mpegURL", src: sportsLiveTVURL});
+    function skaiTV() {
+    	player.src({type: "application/x-mpegURL", src: liveURL});
     	player.play();
     }
-    function musicLiveTV() {
-    	player.src({type: "application/x-mpegURL", src: musicLiveTVURL});
+    function ertWorld() {
+    	player.src({type: "application/x-mpegURL", src: ertWorldURL});
     	player.play();
     }
-    aNews()
+    skaiNews()
     </script>
 </body>
 </html>
