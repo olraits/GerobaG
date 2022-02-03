@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- CSS  -->
+<link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
+<style>
+.intro {
+  border: none;
+  color: white;
+  background-color: blue;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: text;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.skaiButton {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+.skaiButton:hover {
+  background-color: #008CBA;
+  color: white;
+}
+</style>
+<!-- JS code -->
+<!-- Video JS Libraries -->
+    <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
+    <script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
+</head>
+
+<body>
+<!-- HTML -->
+<button class="intro" disabled>Welcome to GerobaG TV!</button>
+<button class="button skaiButton", onclick="skaiNews()">A News</button>
+<button class="button skaiButton", onclick="skaiTV()">Sports Live TV</button>
+<button class="button skaiButton", onclick="ertWorld()">Music Live TV</button>
+<video id='GerobaGTV'  class="video-js vjs-default-skin" width="1250" height="500" controls>
+<source type="application/x-mpegURL" src="">
+</video>
+<!-- Page Script -->
+    <script>
+    var AnewsURL = "https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8";
+    var SportsliveURL = "http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8";
+    var MusicLiveURL = "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8";
+
+    var player = videojs('GerobaGTV');
+
+    function skaiNews() {
+    	player.src({type: "application/x-mpegURL", src: AnewsURL});
+    	player.play();
+    }
+    function skaiTV() {
+    	player.src({type: "application/x-mpegURL", src: SportsliveURL});
+    	player.play();
+    }
+    function ertWorld() {
+    	player.src({type: "application/x-mpegURL", src: MusicLiveURL});
+    	player.play();
+    }
+    skaiNews()
+    </script>
+</body>
+</html>
