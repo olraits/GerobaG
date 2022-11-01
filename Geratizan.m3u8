@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="zip" group-title="geratezan",ANTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/4
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" tvg-logo="zip" group-title="geratezan",DAAI TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/5
+#EXTINF:-1 tvg-id="" tvg-name="Elshinta" tvg-logo="zip" group-title="geratezan",Elshinta
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/75
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="zip" group-title="geratezan",GTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/19
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="zip" group-title="geratezan",Indosiar
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/2
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="zip" group-title="geratezan",Kompas TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/12
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="MetroTV" tvg-logo="zip" group-title="geratezan",MetroTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/11
+#EXTINF:-1 tvg-id="NET.id" tvg-name="NET." tvg-logo="zip" group-title="geratezan",NET.
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/3
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="RTV" tvg-logo="zip" group-title="geratezan",RTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/8
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="zip" group-title="geratezan",SCTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/1
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="zip" group-title="geratezan",Trans TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/15
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="zip" group-title="geratezan",Trans7
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/14
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI" tvg-logo="zip" group-title="geratezan",TVRI
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/6
+#EXTINF:-1 tvg-id="" tvg-name="U-Channel TV" tvg-logo="zip" group-title="geratezan",U-Channel TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/113
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="zip" group-title="geratezan",CBS News
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/85
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="zip" group-title="geratezan",CNN Indonesia
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/22
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW News" tvg-logo="zip" group-title="geratezan",DW News
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/24
+#EXTINF:-1 tvg-id="" tvg-name="NBC News" tvg-logo="zip" group-title="geratezan",NBC News
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/84
+#EXTINF:-1 tvg-id="SEAToday.id" tvg-name="SEA Today" tvg-logo="zip" group-title="geratezan",SEA Today
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/23
+
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AFN" tvg-logo="zip" group-title="geratezanEntertainment",AFN
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/31
+#EXTINF:-1 tvg-id="" tvg-name="All The K-POP" tvg-logo="zip" group-title="geratezanEntertainment",All The K-POP
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
+#EXTINF:-1 tvg-id="DiscoveryChannelIndonesia.id" tvg-name="Discovery Channel" tvg-logo="zip" group-title="geratezanEntertainment",Discovery Channel
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
+#EXTINF:-1 tvg-id="Hits.sg" tvg-name="HITS" tvg-logo="zip" group-title="geratezanEntertainment",HITS
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/52
+#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-name="HITS Movie" tvg-logo="zip" group-title="geratezanEntertainment",HITS Movie
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/51
+#EXTINF:-1 tvg-id="NationalGeographicWildIndonesia.id" tvg-name="Nat Geo Wild" tvg-logo="zip" group-title="geratezanEntertainment",Nat Geo Wild
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/65
+#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="ONE TV Asia" tvg-logo="zip" group-title="geratezanEntertainment",ONE TV Asia
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/55
+#EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-name="Rock Entertainment" tvg-logo="zip" group-title="geratezanEntertainment",Rock Entertainment
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/61
+#EXTINF:-1 tvg-id="RockExtreme.sg" tvg-name="Rock Extreme" tvg-logo="zip" group-title="geratezanEntertainment",Rock Extreme
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/60
+#EXTINF:-1 tvg-id="SmithsonianChannelUK.uk" tvg-name="Smithsonian Channel" tvg-logo="zip" group-title="geratezanEntertainment",Smithsonian Channel
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/131
+#EXTINF:-1 tvg-id="TechStorm.sg" tvg-name="TechStorm" tvg-logo="zip" group-title="geratezanEntertainment",TechStorm
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/81
+#EXTINF:-1 tvg-id="TVNAsia.hk" tvg-name="tvN" tvg-logo="zip" group-title="geratezanEntertainment",tvN
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/69
+#EXTINF:-1 tvg-id="TVNMovies.hk" tvg-name="tvN Movies" tvg-logo="zip" group-title="geratezanEntertainment",tvN Movies
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/70
+#EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="zip" group-title="geratezanEntertainment",IMC
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/133
+
