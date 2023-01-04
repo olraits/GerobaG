@@ -103,3 +103,57 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/duniagames.png" group-title="MAXStream",Dunia Games TV (MPD(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 1 HD" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/marvel-282124.png" group-title="ARVEL STUDIO (HD)",MARVEL|STUDIO CHANNEL 1 HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/155979
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 2 HD" tvg-logo="" group-title="ARVEL STUDIO (HD)",MARVEL|STUDIO CHANNEL 2 HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/155980
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 3 HD" tvg-logo="" group-title="ARVEL STUDIO (HD)",MARVEL|STUDIO CHANNEL 3 HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/155981
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 4 HD" tvg-logo="" group-title="ARVEL STUDIO (HD)",MARVEL|STUDIO CHANNEL 4 HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/155982
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 5 HD" tvg-logo="" group-title="ARVEL STUDIO (HD)",MARVEL|STUDIO CHANNEL 5 HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/155983
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 6 HD" tvg-logo="" group-title="ARVEL STUDIO (HD)",MARVEL|STUDIO CHANNEL 6 HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/155984
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 7 HD" tvg-logo="" group-title="ARVEL STUDIO (HD)",MARVEL|STUDIO CHANNEL 7 HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/155985
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 8 HD" tvg-logo="" group-title="ARVEL STUDIO (HD)",MARVEL|STUDIO CHANNEL 8 HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/155986
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 9 HD" tvg-logo="" group-title="ARVEL STUDIO (HD)",MARVEL|STUDIO CHANNEL 9 HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/155987
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL| STUDIO CHANNEL 10 HD" tvg-logo="" group-title="ARVEL STUDIO (HD)",MARVEL|STUDIO CHANNEL 10 HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/155988
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX ENGLISH 1" tvg-logo="" group-title="ETFLIX VIP",NETFLIX ENGLISH 1
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114975
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX ENGLISH 2" tvg-logo="" group-title="ETFLIX VIP",NETFLIX ENGLISH 2
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114976
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX ENGLISH 3" tvg-logo="" group-title="ETFLIX VIP",NETFLIX ENGLISH 3
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114977
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX ENGLISH 4" tvg-logo="" group-title="ETFLIX VIP",NETFLIX ENGLISH 4
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114978
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX FRENCH 1" tvg-logo="" group-title="ETFLIX VIP",NETFLIX FRENCH 1
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114979
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX FRENCH 2" tvg-logo="" group-title="ETFLIX VIP",NETFLIX FRENCH 2
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114980
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX FRENCH 3" tvg-logo="" group-title="ETFLIX VIP",NETFLIX FRENCH 3
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114981
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX ARABIC 1" tvg-logo="" group-title="ETFLIX VIP",NETFLIX ARABIC 1
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114982
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX ARABIC 2" tvg-logo="" group-title="ETFLIX VIP",NETFLIX ARABIC 2
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114983
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX TURCKISH 1" tvg-logo="" group-title="ETFLIX VIP",NETFLIX TURCKISH 1
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114984
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX TURCKISH 2" tvg-logo="" group-title="ETFLIX VIP",NETFLIX TURCKISH 2
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114985
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX SPANISH 1" tvg-logo="" group-title=ETFLIX VIP",NETFLIX SPANISH 1
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114986
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX SPANISH 2" tvg-logo="" group-title="NETFLIX VIP",NETFLIX SPANISH 2
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114987
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX INDIAN 1" tvg-logo="" group-title="ETFLIX VIP",NETFLIX INDIAN 1
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114988
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX INDIAN 2" tvg-logo="" group-title="ETFLIX VIP",NETFLIX INDIAN 2
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114989
+#EXTINF:-1 tvg-id="" tvg-name="VIP.NETFLIX DISNEY 2" tvg-logo="" group-title="ETFLIX VIP",NETFLIX DISNEY 2
+http://mcoes.live:7788/masre21200/NPbr4mrfps/114991
+
+
