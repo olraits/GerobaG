@@ -269,6 +269,7 @@ http://rr.dens.tv/h/h91/index2.m3u8
 http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="DENS_TV",Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://s.id/1d0ti" group-title="FREE_ALL TV",INDOSIAR
@@ -1357,10 +1358,40 @@ http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
 http://122.248.43.138:1935/ch25/myStream/live.m3u8
 #EXTINF:-1 tvg-id="upin & ipin" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="FREE_ALL TV",UPIN & IPIN
 http://tv1.yurend.my.id:25461/seulanga/seulanga3210/7?&token=bY2xa1DSbTQ8JxGCpbqTcvEs4vUCdq6QaQnJgxkU_Y=l3lJo49pM2GSj7d4RHYvftZ8cpB5VrBaVWabDoVBHxH4fq0u0muhkntRuUF6HNsO8HUspgOYP2IP9ctMOGDF0M8noY9BUMipHupuBQWzBjrELZLn_uk2N01F=qNk4JfV5PMF6xFPfuPjjcNi9hmsZOsZ3=FOrn4BAJdHWsB0_2l9y11_vL__2GOx81wWuw10LLT7WypF6xsx9kKri2KMf0zymmNBhKWImyQpOfKfQ28sAdwzTtfsOXEM5crXmY0fx79EanGFUlNtyRSrw_TDOlMhA458TLOluMIwNy0pdD1WmgJ7gK_TktKSAAm5cLCCIG7zdf=8qxQ0weIxOeHfyC=8KlZ5tw6eVFWOcWnOktY1ORqNjnplGv7ORiljHVeV26h4uzFXKPtAGEAHp55Gn==6uuQXTQM4mIDx6xBdZ3MD1BsUgaA8NI3IY3pfcrBY_WNDAZ0D=4n4p3kU19OWrUXxDUgQl9j_AD7jyd80_P4R7ihaIoKzmOqxw_Pm6OR3zCeNbAkmXup2eAyShSi0zTprs3J7_DTUtPBE8Vuhy6PogGg2z9EQ=V4Yj2RvNOtsHmXXPa4N=2=SyueDkK5=Yd8kc0FzIXfrVhHn2BFeOLgZW4zbPRAucpOHzVz36Ag7x5SIGuD2ZCXC6IhToEemXH2SgjV2BIqBvjcmm82c9t_d=U8UChKkuhuzqUMTeqY8MuTMAQuq5xRpD4O=1SWCyHdx5onyipgNfND0kSsN0neiN0HERZG6k4LJ3DNU6VKZ4Y7i5cbNtbGPpOC_CbxE4TSYN7XCmBi8rxdHmAoujFMtVP6QrWaic27pQPIgodUeyg8qRNDV4uVy8ge3wEXQVX3so
-
-
-
-
+#EXTINF:-1 group-title="ADD_PlusTV",Bein 1 U
+http://194.233.71.141:5566/play/Bein1-U/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",Crimeinvestigation
+http://194.233.71.141:5566/play/crimeinvestigation/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",ID: Bein 1
+http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",ID: NBA
+http://194.233.71.141:5566/play/NBA/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",INEWS
+http://194.233.71.141:5566/play/INEWS/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",aniplus
+http://194.233.71.141:5566/play/aniplus/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",cnbcasia
+http://194.233.71.141:5566/play/cnbcasia/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",dunialain
+http://194.233.71.141:5566/play/dunialain/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",history
+http://194.233.71.141:5566/play/history/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",hitsmovie
+http://194.233.71.141:5566/play/hitsmovie/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",horee
+http://194.233.71.141:5566/play/horee/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",kbsworld
+http://194.233.71.141:5566/play/kbsworld/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",kplus
+http://194.233.71.141:5566/play/kplus/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",natgeo
+http://194.233.71.141:5566/play/natgeo/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",natgeowild
+http://194.233.71.141:5566/play/natgeowild/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",spotv2
+http://194.233.71.141:5566/play/spotv2/index.m3u8
+#EXTINF:-1 group-title="ADD_PlusTV",useesports2
+http://194.233.71.141:5566/play/useesports2/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Dw0aKxoz9cxMQe5NhmF3sJzllIHtoujKkw&usqp=CAU" group-title="FREE_ALL TV",CARTOON
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&token=RgY2q20lU22uILBd2IueHAQNySI3Qt9sgxOBkKqRQ0U2rsaNHV0DLyPmuPJz9=L70=TiZLSlYXTt19i_wAoCn5bSdHlSvXnE5YfUJ18O6fEQYmW27FiTBB_fj9VRu_OWVFoWSVFDNBs_lQqbRVBD2dzAKnw0nZ5UmtdLQCZRbdaUisflw1v1vvl1GRkQKAqEZIgdot9rwLP9S=BjBLFct1sXcXPSpEHj3d0LOGOdy15qH6AFtFJX2QV2ZGU3NVNoqMaagFdPZziX9kgKC5oVO9KatVPHhQqyHfmWjs_SIipp0h6y9ad4acp6Hh53QHCeOTq6U3LZl2we7YG8eapxNtCosywT_dOic3CkiARwXW0lPD4D9u7OgfU8ZHsVH1r68hN5iRh3w8NjiMPKyKj5=peuQs8AYHIWXEswzDmZhYR6=eSx6BOIQTRoIP6Uin77f8yHqoUVOKFo_KLgnij=NF8nDlXfbaSKNWfAHCwTJRfPSVELRGV73IiBUgpAZ=sjIgeyFRRj2uA5H71M0B_LNFgLP3Ry9eNL5QRSMaFnbyFt1XH9KX7Juo98snc1CFmmBv64ulE5dNvMrUbFwbsSZ1ca56Mlp3npTNjYCdsKM2=2biZ3be0aqrWlwALp5Z91UtaxH4SvGc_ybXdeTcxmKpwp7XNHu_g=ZbqeEIDfJLsJ6cWKpNPt_u2jXInEoOPUQP8vSlYkG9cuCrRpAYPEPqlj6DOyae5qjEzLmhwYh3WxE1XiPzKhNyMMjOYP5IAXBFyE1K==H7pCJkkR24X1zVyYlLV1zN2ttt6CAXVklZDuC76ekKtTHbLS3j_dVAe7oPjL_5TwsoSO4bD08=bfikc3pZQVFUGqpHCvZnh2EM=XCW6mjN5MwRhAGf=XmA4az=gY
