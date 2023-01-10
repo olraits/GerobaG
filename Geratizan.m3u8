@@ -269,7 +269,111 @@ http://rr.dens.tv/h/h91/index2.m3u8
 http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1  tvg-logo="" group-title="DENS_TV",Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SLOKAL_ID",⚽MNC*Sports⚽
 
+https://iplogger.com/MncSport-Shareext
+
+#EXTINF:-1 tvg-logo="" group-title="SLOKAL_ID",⚽MNC*Sport 2⚽
+
+https://iplogger.com/MncSport2-Shareext
+
+#EXTINF:-1 tvg-logo="" group-title="SLOKAL_ID",⚽Soccer*Channel⚽ 
+
+https://iplogger.com/SoccerChannel-Shareext
+
+#EXTINF:-1 tvg-logo="" group-title="SLOKAL_ID",⚽MncSports.1⚽
+
+https://iplogger.com/Beinsport1-Shareext
+
+#EXTINF:-1 tvg-logo="" group-title="SLOKAL_ID",⚽MncSports.2⚽
+https://iplogger.com/Beinsport2-Shareext
+
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",ARENA•2
+https://iplogger.com/Arena2-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",ASSP•1
+https://iplogger.info/ASSP1-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",ASSP•2
+https://iplogger.info/ASSP2-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",ASSP•3
+https://iplogger.info/ASSP3-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",ASSP•4
+https://iplogger.info/ASSP4-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",TAADA•
+https://iplogger.com/TAADA-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",ASTRO•BOX•OFFICE
+https://iplogger.com/A-boxoffice-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",AWESOME•
+https://iplogger.com/AWESOME-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",CITRA•
+https://iplogger.com/CITRA-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",AURA•
+https://iplogger.com/Aura-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",RANIA•
+https://iplogger.com/Rania-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",SETI•
+https://iplogger.com/Seti-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",LUXE•TV
+https://iplogger.com/LuxeTv-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",PHOENIX•
+https://iplogger.com/Phoenix-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",PRIMA•
+https://iplogger.com/Prima-shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",IQYI•
+https://iplogger.com/Iqyi
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",TVB•XING•HE
+https://iplogger.com/XingHe-shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",TVIQ•
+https://iplogger.com/Tviq-shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",CCM•
+https://iplogger.com/Ccm-Shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",OKEY•
+https://iplogger.com/Okey-shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",BOLYONE•
+https://iplogger.com/Bolyone-shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",CERIA•
+https://iplogger.com/Ceria-shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",VAANAVILL•
+https://iplogger.com/Vaanavill-shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",CHUTTI•TV
+https://iplogger.com/Chutti-shareext
+#EXTINF:-1 tvg-logo="" group-title="ASTROOX",ADITYA•
+https://iplogger.com/Aditya-shareext
+
+
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",Indo_Music
+https://cdn09jtedge.indihometv.com/bumper/bumperlivestreaming/chunklist_w1994879223_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",ANTV
+https://devds.site/api/v.m3u8?ch=antv
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",SCTV
+https://devds.site/api/v.m3u8?ch=sctv
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",INDOSIAR
+https://devds.site/api/v.m3u8?ch=indosiar
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",MOJI
+https://devds.site/api/v.m3u8?ch=moji
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",NET.
+https://devds.site/api/v.m3u8?ch=net
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",TRANSTV
+https://devds.site/api/v.m3u8?ch=transtv
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",TRANS7
+https://devds.site/api/v.m3u8?ch=trans7
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",KOMPAS.TV
+https://devds.site/api/v.m3u8?ch=kompas
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",METRO.TV
+https://devds.site/api/v.m3u8?ch=metrotv
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",NUSANTARA.TV
+https://devds.site/api/v.m3u8?ch=nusantara
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",JAK.TV
+https://devds.site/api/v.m3u8?ch=jak
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",JTV
+https://devds.site/api/v.m3u8?ch=jtv
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",DAAI.TV
+https://devds.site/api/v.m3u8?ch=daai
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",JPM
+https://devds.site/api/v.m3u8?ch=jpm
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",TVRI
+https://devds.site/api/v.m3u8?ch=tvri
+#EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",TVONE
+https://devds.site/api/v.m3u8?ch=tvone
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://s.id/1d0ti" group-title="FREE_ALL TV",INDOSIAR
