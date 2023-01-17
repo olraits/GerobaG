@@ -374,6 +374,66 @@ https://devds.site/api/v.m3u8?ch=jpm
 https://devds.site/api/v.m3u8?ch=tvri
 #EXTINF:-1 tvg-logo="" group-title="FREELOKAL_ID",TVONE
 https://devds.site/api/v.m3u8?ch=tvone
+
+#EXTINF:-1 tvg-id="IN: SONY TEN 1 HD" tvg-name="IN: TEN 1 HD" tvg-logo="" group-title="FREE@FIGHT_Sports",TEN1©HD
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/203097
+#EXTINF:-1 tvg-id="IN: SONY TEN 2 HD" tvg-name="IN: TEN 2 HD" tvg-logo="" group-title="FREE@FIGHT_Sports",TEN2©HD
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/203098
+#EXTINF:-1 tvg-id="IN: SONY TEN 3 HD" tvg-name="IN: TEN 3 HD" tvg-logo="" group-title="FREE@FIGHT_Sports",TEN3©HD
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/203099
+#EXTINF:-1 tvg-id="BR: COMBATE" tvg-name="BR: Combate" tvg-logo="http://got.reapervision.xyz:2052/images/Combate.png" group-title="FREE@FIGHT_Sports",BR™Combate
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/230702
+#EXTINF:-1 tvg-id="WWENetwork.peacocktv" tvg-name="Peacock: WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png" group-title="FREE@FIGHT_Sports",Peacock™WWE Network
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/290405
+#EXTINF:-1 tvg-id="" tvg-name="Wrestlemania" tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="FREE@FIGHT_Sports",Wrestlemania™show
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/362804
+#EXTINF:-1 tvg-id="WWENetwork.peacocktv" tvg-name="WWE NETWORK" tvg-logo="http://got.vampirereapers.xyz:2052/images/WWE.png" group-title="FREE@FIGHT_Sports",WWE™NETWORK•
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127282
+#EXTINF:-1 tvg-id="" tvg-name="WWE Wrestling" tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="FREE@FIGHT_Sports",WWE™Wrestling•show
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/362805
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport WWE" tvg-logo="http://myportal.live:8080/images/3f20b404d607668b1d86bec3823a3562.png" group-title="FREE@FIGHT_Sports",ZA™SuperSport WWE
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/135030
+#EXTINF:-1 tvg-id="Stadium.us" tvg-name="STADIUM" tvg-logo="http://got.vampirereapers.xyz:2052/images/STADIUM.png" group-title="FREE@FIGHT_Sports",STADIUM™
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127265
+#EXTINF:-1 tvg-id="Stadium1.us" tvg-name="STADIUM 1" tvg-logo="http://got.vampirereapers.xyz:2052/images/STADIUM.png" group-title="FREE@FIGHT_Sports",STADIUM 1™
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127266
+#EXTINF:-1 tvg-id="Stadium2.us" tvg-name="STADIUM 2" tvg-logo="http://got.vampirereapers.xyz:2052/images/STADIUM.png" group-title="FREE@FIGHT_Sports",STADIUM 2™
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127267
+#EXTINF:-1 tvg-id="Stadium3.us" tvg-name="STADIUM 3" tvg-logo="http://got.vampirereapers.xyz:2052/images/STADIUM.png" group-title="FREE@FIGHT_Sports",STADIUM 3™
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127268
+#EXTINF:-1 tvg-id="" tvg-name="GLORY Kickboxing" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="FREE@FIGHT_Sports",GLORY™Kickboxing
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/141656
+#EXTINF:-1 tvg-id="" tvg-name="UFC 24/7" tvg-logo="http://got.vampirereapers.xyz:2052/images/UFC.png" group-title="FREE@FIGHT_Sports",UFC™24/7
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/128927
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="UFC FIGHT PASS 24/7" tvg-logo="http://got.vampirereapers.xyz:2052/images/UFC FIGHT PASS.png" group-title="FREE@FIGHT_Sports",UFC•FIGHTPASS 24/7
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127129
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX SPORTS 1 - FS1" tvg-logo="https://i.ibb.co/4fbmtL1/fs1.png" group-title="FREE@FIGHT_Sports",FOXSPORTS™1-FS1
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127025
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FOX SPORTS 2 - FS2" tvg-logo="http://got.vampirereapers.xyz:2052/images/FOX SPORTS 2.png" group-title="FREE@FIGHT_Sports",FOXSPORTS™2-FS2
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127026
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT SPORT 1 - UK" tvg-logo="http://got.vampirereapers.xyz:2052/images/BT SPORT 1.png" group-title="FREE@FIGHT_Sports",BT™SPORT•1-UK
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/126999
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT SPORT 2 - UK" tvg-logo="http://got.vampirereapers.xyz:2052/images/BT SPORT 2.png" group-title="FREE@FIGHT_Sports",BT™SPORT•2-UK
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/128423
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT SPORT 3 - UK" tvg-logo="http://got.vampirereapers.xyz:2052/images/BT SPORT 3.png" group-title="FREE@FIGHT_Sports",BT™SPORT•3-UK
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127000
+#EXTINF:-1 tvg-id="UK: BTSpt//ESPNHD" tvg-name="BT SPORT 4  ESPN- UK" tvg-logo="http://got.vampirereapers.xyz:2052/images/BT SPORT ESPN.png" group-title="FREE@FIGHT_Sports",BT™SPORT•4•ESPN-UK
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127002
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BT SPORT BOXNATION - UK" tvg-logo="http://got.vampirereapers.xyz:2052/images/BOXNATION.png" group-title="FREE@FIGHT_Sports",BOXNATION-UK
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127001
+#EXTINF:-1 tvg-id="" tvg-name="Fight" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="FREE@FIGHT_Sports",Fight™
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/142864
+#EXTINF:-1 tvg-id="FightNetwork.us" tvg-name="FIGHT NETWORK" tvg-logo="http://got.vampirereapers.xyz:2052/images/FIGHT NETWORK.png" group-title="FREE@FIGHT_Sports",FIGHT™NETWORK••
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127173
+#EXTINF:-1 tvg-id="PL: FIGHTBOX" tvg-name="FIGHTBOX" tvg-logo="http://got.vampirereapers.xyz:2052/images/Fightbox.png" group-title="FREE@FIGHT_Sports",FIGHTBOX™•
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/128925
+#EXTINF:-1 tvg-id="" tvg-name="FITE TV 24/7" tvg-logo="http://got.vampirereapers.xyz:2052/images/FITE.png" group-title="FREE@FIGHT_Sports",FITE™TV•24/7
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/161800
+#EXTINF:-1 tvg-id="" tvg-name="IMPACT Wrestling" tvg-logo="https://www.pwmania.com/wp-content/uploads/2020/05/Impact-Wrestling.jpg" group-title="FREE@FIGHT_Sports",IMPACT√Wrestling™
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/142606
+#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="IMPACT WRESTLING 24/7" tvg-logo="http://got.vampirereapers.xyz:2052/images/IMPACT WRESTLING.png" group-title="FREE@FIGHT_Sports",IMPACT™WRESTLING•24/7
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/163121
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://s.id/1d0ti" group-title="FREE_ALL TV",INDOSIAR
