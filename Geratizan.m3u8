@@ -1,7 +1,9 @@
 #EXTM3U #Kudalumping
 
-#EXTINF:-1 group-title="00_WELCOME DRINKS_00" tvg-logo="","SUGENG RAWUH to B0cah_INGUSAN STB"
+#EXTINF:-1 group-title="00_WELCOME DRINKS_00" tvg-logo="","SUGENG RAWUH @ B0cah_INGUSAN STB 23"
 https://static.vecteezy.com/system/protected/files/005/365/280/vecteezy_colorful-smoke-intro-for-social-media-presentation_5365280_291.mp4
+
+-------------------------LIVE EVENT---------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE EVENT",Live 1
 http://103.167.167.5:8111/play/a00r/index.m3u8
@@ -43,28 +45,14 @@ http://line5.protv.cc:80/Joao/1234567/923432
 http://line5.protv.cc:80/Joao/1234567/923431
 #EXTINF:-1 tvg-id="beIN_SPORTS3_ENGLISH" tvg-name="UK| BEIN SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-3UHD.png" group-title=""LIVE EVENT", BEIN SPORTS 3 HD
 http://line5.protv.cc:80/Joao/1234567/923430
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 1 ) 
-http://golive.yn.lt/live/volleyball/01.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 2 ) 
-http://golive.yn.lt/live/volleyball/02.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 3 ) 
-http://golive.yn.lt/live/volleyball/03.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 4 ) 
-http://golive.yn.lt/live/volleyball/04.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 5 ) 
-http://golive.yn.lt/live/volleyball/05.m3u8
-
+----------------------------------------------------------------LOKAL---------------------------------------------------------------------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="Lokal",RCTI
 http://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="Lokal",RCTI+
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157591
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="GTV.id" tvg-name="" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="Lokal",GTV
@@ -78,19 +66,17 @@ http://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/512px-INews.png" group-title="Lokal",iNews
 http://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 tvg-id="" tvg-name="ID: iNews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Lokal",ID: iNews
-http://kuchini.site:8080/fungoldiptv/Qr6CMw9KWxZ8Ar9D/157579
+
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Lokal",SCTV
 http://rr2.dens.tv/s/s03/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Lokal",SCTV
-https://devds.site/api/v.m3u8?ch=sctv
+https://geocities.ws/ariev7xx/sctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Lokal",INDOSIAR
-http://210.210.155.35/session/8fe637d4-fb26-11eb-9071-b82a72d63267/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Lokal",INDOSIAR
-https://devds.site/api/v.m3u8?ch=indosiar
+http://103.167.167.5:8111/play/a00r/index.m3u8
+
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://i.imgur.com/D70rSkE.png" ,Moji O ch
-https://devds.site/api/v.m3u8?ch=moji
+https://geocities.ws/ariev7xx/moji.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Lokal",,TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Lokal",,TRANS 7
@@ -124,7 +110,7 @@ https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHEeyikmjRpXZ6ihVkJShhL1rVzZ7SE6dNQ&usqp=CAU" group-title="Lokal", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
-
+-------------------------------------------------------------SPORT--------------------------------------------------------------------------------
 
 #EXTINF:-1  tvg-logo="" group-title="SPORT",BEIN Xtra
 https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
@@ -540,7 +526,7 @@ http://200.24.132.99:8000/play/a02w
 #EXTINF:-1 ,TNT SPORTS ðŸ‡§ðŸ‡·
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-
+-------------------------------------------------------------------------------------MOVIES----------------------------------------------------------------------------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -599,21 +585,10 @@ http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115673
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/115420
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",KR: OCN movies KR
-https://allanf181.github.io/adaptive-streams/streams/kr/OCN.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",Playboy KR
-https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",Midnight KR
-https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-id="" tvg-name="",Playy Premium Movie KR
-https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYPremiumMovie.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies"tvg-id="" tvg-name="",Playy Action Movie KR
-https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYActionMovie.m3u8
-
+---------------------------------------------------------------------------------------KIDS-------------------------------------------------------------------------------------------------------
 
 
 
@@ -741,6 +716,9 @@ http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGUpRBUWt0F35P8qVFqNA_cst
 https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3Urtq6W1YLkobghq9TfSN3-gh2Ju_iv8Ig&usqp=CAU" group-title="Kids ",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+_-------------------------------------------------------------------------------KNOWLEDGE-------------------------------------------------------------------------------
+
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0ZYQbB.png" group-title="Knowledge",Discovery Channel Southeast Asia
 https://av-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
@@ -781,6 +759,8 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:-1 group-title="Kids " tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon South East Asia
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
+-----------------------------------------------------------------------------------FASHION------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XgrBSh3.png?v=1.0.0.1" group-title="FASHION", Fashion TV HD
 http://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/OsbTFpv.png?v=1.0.0.1" group-title="FASHION" , Fashion TV
@@ -790,9 +770,12 @@ http://iptvtree.net:8080/4467299f/8b713e1a54/36535
 
 #EXTINF:-1 group-title="FASHION" ,Miami TV JennyLive
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-
-#EXTINF:-1 group-title="FASHION" ,Beach TV
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 group-title="FASHION" ,Beach TV 1
+https://bit.ly/3Dlpama
+#EXTINF:-1 group-title="FASHION" ,Beach TV 2
+https://bit.ly/3RaKVLj
+#EXTINF:-1 group-title="FASHION" ,Beach TV 3
+https://xtubee.xyz/kontol.php?url=https://filemoon.sx/e/auvcctrj0313
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/8X9FDe3.png?v=1.0.0.1" group-title="FASHION" , Global Fashion Channel
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1"" group-title="FASHION" , Fashion TV Midnight Secrets
@@ -800,225 +783,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/70431
 
-
-#EXTINF:-1,tvN
-http://rr1.dens.tv/h/h20/01.m3u8
-
-#EXTINF:-1,tvN MOVIES
-http://rr1.dens.tv/h/h21/01.m3u8
-
-#EXTINF:-1,AL JAZEERA ARABIC
-http://rr2.dens.tv/s/s16/01.m3u8
-
-#EXTINF:-1,AL JAZEERA ENGLISH
-http://rr2.dens.tv/s/s17/01.m3u8
-
-#EXTINF:-1,ANIMAX
-http://rr1.dens.tv/h/h144/01.m3u8
-
-#EXTINF:-1,ANIPLUS
-http://rr1.dens.tv/h/h02/01.m3u8
-
-#EXTINF:-1,ANTV
-http://rr2.dens.tv/s/s07/01.m3u8
-
-#EXTINF:-1,AXN
-http://rr1.dens.tv/h/h141/01.m3u8
-
-#EXTINF:-1,BALI TV
-http://rr.dens.tv/h/h159/index2.m3u8
-
-#EXTINF:-1,BLOOMBERG
-http://rr1.dens.tv/h/h03/01.m3u8
-
-#EXTINF:-1,BLUE ANT ENTERTAINMENT
-http://rr1.dens.tv/h/h16/01.m3u8
-
-#EXTINF:-1,BLUE ANT EXTREME
-http://rr1.dens.tv/h/h15/01.m3u8
-
-#EXTINF:-1,CCTV4
-http://rr2.dens.tv/s/s19/01.m3u8
-
-#EXTINF:-1,CELESTIAL MOVIES
-http://rr2.dens.tv/s/s33/01.m3u8
-
-#EXTINF:-1,CGTN
-http://rr2.dens.tv/s/s20/01.m3u8
-
-#EXTINF:-1,CHANNEL NEWS ASIA
-http://rr.dens.tv/h/h29/01.m3u8
-
-#EXTINF:-1,CINEMAEUROPE
-http://rr.dens.tv/h/h18/01.m3u8
-
-#EXTINF:-1,CINEMAWORLD
-http://rr1.dens.tv/h/h04/01.m3u8
-
-#EXTINF:-1,FIGHT SPORTS
-http://rr3.dens.tv/h/h05/01.m3u8
-
-#EXTINF:-1,FILMY
-http://rr.dens.tv/h/h154/index2.m3u8
-
-#EXTINF:-1,FRANCE24
-http://rr2.dens.tv/s/s22/01.m3u8
-
-#EXTINF:-1,HITS
-http://rr1.dens.tv/h/h37/01.m3u8
-
-#EXTINF:-1,INDOSIAR
-http://rr2.dens.tv/s/s04/01.m3u8
-
-#EXTINF:-1,JAKTV
-http://rr3.dens.tv/s/s46/index.m3u8
-
-#EXTINF:-1,JTV
-http://rr3.dens.tv/s/s91/index.m3u8
-
-#EXTINF:-1,K+
-http://rr.dens.tv/h/h08/01.m3u8
-
-#EXTINF:-1,KIX
-http://rr1.dens.tv/h/h07/01.m3u8
-
-#EXTINF:-1,KOMPAS TV
-http://rr2.dens.tv/s/s104/01.m3u8
-
-#EXTINF:-1,KSA
-http://rr.dens.tv/h/h151/index2.m3u8
-
-#EXTINF:-1,Learning&Knowledge
-http://rr.dens.tv/h/h97/index.m3u8
-
-#EXTINF:-1,LIFESTYLE
-http://rr1.dens.tv/h/h28/01.m3u8
-
-#EXTINF:-1,Live Streaming
-http://rr3.dens.tv/s/s37/index.m3u8
-
-#EXTINF:-1,METROTV
-http://rr3.dens.tv/h/h12/01.m3u8
-
-#EXTINF:-1,MKIDZ
-http://rr.dens.tv/h/h98/index.m3u8
-
-#EXTINF:-1,MOTORVISION
-http://rr.dens.tv/h/h09/01.m3u8
-
-#EXTINF:-1,MyCINEMA
-http://rr.dens.tv/h/h90/index.m3u8
-
-#EXTINF:-1,MyCINEMA ASIA
-http://rr.dens.tv/h/h93/index.m3u8
-
-#EXTINF:-1,MyTV
-http://rr2.dens.tv/s/s46/01.m3u8
-
-#EXTINF:-1,NET.
-http://rr2.dens.tv/s/s08/01.m3u8
-
-#EXTINF:-1,NHK WORLD
-http://rr.dens.tv/h/h23/01.m3u8
-
-#EXTINF:-1,PHOENIX
-http://rr2.dens.tv/s/s21/01.m3u8
-
-#EXTINF:-1,PHOENIX CHINESE
-http://rr.dens.tv/h/h157/index2.m3u8
-
-#EXTINF:-1,Quran TV
-http://rr2.dens.tv/s/s28/01.m3u8
-
-#EXTINF:-1,RAI ITALIA
-http://rr3.dens.tv/s/s63/index2.m3u8
-
-#EXTINF:-1,RODJATV
-http://rr2.dens.tv/s/s14/01.m3u8
-
-#EXTINF:-1,RT
-http://rr2.dens.tv/s/s23/01.m3u8
-
-#EXTINF:-1,RTP
-http://rr2.dens.tv/s/s38/01.m3u8
-
-#EXTINF:-1,RTV
-http://rr2.dens.tv/s/s12/01.m3u8
-
-#EXTINF:-1,SCTV
-http://rr2.dens.tv/s/s03/01.m3u8
-
-#EXTINF:-1,SHANGHAI DRAGON TV
-http://rr2.dens.tv/s/s29/01.m3u8
-
-#EXTINF:-1,SINEMA INDONESIA
-http://rr.dens.tv/h/h155/index2.m3u8
-
-#EXTINF:-1,SONY GEM
-http://rr.dens.tv/h/h19/01.m3u8
-
-#EXTINF:-1,SONY ONE
-http://rr.dens.tv/h/h143/01.m3u8
-
-#EXTINF:-1,STAR
-http://rr3.dens.tv/s/s94/index2.m3u8
-
-#EXTINF:-1,STYLE
-http://rr1.dens.tv/h/h01/01.m3u8
-
-#EXTINF:-1,Sunna TV
-http://rr2.dens.tv/s/s27/01.m3u8
-
-#EXTINF:-1,TBN
-http://rr2.dens.tv/s/s39/01.m3u8
-
-#EXTINF:-1,TELENOVELA
-http://rr.dens.tv/h/h153/index2.m3u8
-
-#EXTINF:-1,THRILL
-http://rr2.dens.tv/s/s34/01.m3u8
-
-#EXTINF:-1,TOONMAX
-http://rr2.dens.tv/s/s50/01.m3u8
-
-#EXTINF:-1,TRANS7
-http://rr2.dens.tv/s/s101/01.m3u8
-
-#EXTINF:-1,TRANSTV
-http://rr3.dens.tv/s/s72/01.m3u8
-
-#EXTINF:-1,TRT WORLD
-http://rr.dens.tv/h/h156/index2.m3u8
-
-#EXTINF:-1,TV5MONDE
-http://rr1.dens.tv/s/s24/01.m3u8
-
-#EXTINF:-1,TVE
-http://rr.dens.tv/h/h158/index2.m3u8
-
-#EXTINF:-1,TVONE
-http://rr2.dens.tv/s/s105/01.m3u8
-
-#EXTINF:-1,TVRI
-http://rr2.dens.tv/s/s11/01.m3u8
-
-#EXTINF:-1,TVRI SPORT
-http://rr2.dens.tv/s/s107/01.m3u8
-
-#EXTINF:-1,U CHANNEL
-http://rr2.dens.tv/s/s41/01.m3u8
-
-#EXTINF:-1,UA
-http://rr.dens.tv/h/h101/index2.m3u8
-
-#EXTINF:-1,WION
-http://rr.dens.tv/h/h91/index2.m3u8
-
-#EXTINF:-1,ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/01.m3u8
-
-#EXTINF:-1,REFRESH
-https://anutv.xyz/video/warning.m3u8
+----------------------------------------------------------------------------------------------------FASHION---------------------------------------------------------------------------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1505,7 +1270,7 @@ https://anevia114.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #EXTINF:-1 group-title="VISION PLUS",TLC
 https://anevia114.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-
+---------------------------------------------------------------------------------------------VOD---------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="MOVIE INDO", YOWES BEN 3
 https://www.googleapis.com/drive/v3/files/1-nq7vMNv6q_7agU0I5R6D_jg98RZPGFs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1620,7 +1385,7 @@ https://www.googleapis.com/drive/v3/files/1Kjawax5jGDG1jWJIhmN64oegwXPwPEoW?alt=
 #EXTINF:-1 group-title="MOVIE INDO",Youtubers
 https://www.googleapis.com/drive/v3/files/1b26KXo10FRzT0ZK_aVanisnDEbqcwnpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-
+-----------------------------------------------------------MALAYSIA----------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="Malaysia",MY: Astro Arena
 http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157485
@@ -1743,6 +1508,8 @@ http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/144772
 http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/279033
 #EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 507" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="Australia",AU: FOX SPORTS 507
 http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/280194
+
+-------------------------------------------------------------------------------------AUSTRALIA-------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="AU: Horse & Country TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0e937d8efac966022e4f8e67b5369bb5.png" group-title="Australia",AU: Horse & Country TV
 http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/279772
