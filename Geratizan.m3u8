@@ -113,6 +113,75 @@ https://maper.info/TVONE-Shareext
 #EXTINF:-1 tvg-logo="" group-title="ID LOKAL NIH",KOMPASTV_HD1
 https://maper.info/KOMPASTV-Shareext
 
+#EXTINF:-1 tvg-logo="" group-title="FILM ADJA",hbo•taiwan
+http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILM ADJA",hbo•family_taiwan
+http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILM ADJA",hbo•hits_taiwan
+http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILM ADJA",cinemax_taiwan
+http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILM ADJA",myTime•movies
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",HAARI™DRAMA
+http://103.167.167.5:8111/play/a01z/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",HAARI™KIDS
+http://103.167.167.5:8111/play/a00g/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",HAARI™MOVIES
+http://103.167.167.5:8111/play/a00h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",ANIMAX™
+http://103.167.167.5:8111/play/a030/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",ANIPLUS™
+http://103.167.167.5:8111/play/a033/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",TVN™
+http://103.167.167.5:8111/play/a02u/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",KBS-WORLD™
+http://103.167.167.5:8111/play/a03a/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",KIX™
+http://103.167.167.5:8111/play/a00p/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",MY™CINEMA
+http://103.167.167.5:8111/play/a01h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",MY™CINEMA™ASIA
+http://103.167.167.5:8111/play/a01g/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",MY™FAMILY
+http://103.167.167.5:8111/play/a00k/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",NICK™
+http://103.167.167.5:8111/play/a00e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",NICK™JR
+http://103.167.167.5:8111/play/a00f/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",ROCK™ENTERTAINMENT
+http://103.167.167.5:8111/play/a01e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",ROCK™EXTREME
+http://103.167.167.5:8111/play/a00m/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",SONY™GEM
+http://103.167.167.5:8111/play/a00z/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",SONY™ONE
+http://103.167.167.5:8111/play/a00u/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",THRILL™
+http://103.167.167.5:8111/play/a01l/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",WB™
+http://103.167.167.5:8111/play/a017/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",ZEE™BIOSKOP
+http://103.167.167.5:8111/play/a01a/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",happy kids junior
+http://103.167.167.5:8111/play/a03b/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",AXN™
+http://103.167.167.5:8111/play/a019/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",CARTOON™NETWORK 
+http://103.167.167.5:8111/play/a00x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",CELESTIAL™CLASSIC™MOVIES
+http://103.167.167.5:8111/play/a01r/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",CELESTIAL™MOVIES
+http://103.167.167.5:8111/play/a00t/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",CINEMA™WORld
+http://103.167.167.5:8111/play/a01f/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",CN™
+http://103.167.167.5:8111/play/a03g/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",GALAXY™
+http://103.167.167.5:8111/play/a00j/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="FILM ADJA",GALAXY™PREMIUM
+http://103.167.167.5:8111/play/a00s/index.m3u8
+
 -------------------------LIVE EVENT---------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE EVENT",Live 1
