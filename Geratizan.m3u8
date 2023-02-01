@@ -182,6 +182,36 @@ http://103.167.167.5:8111/play/a00j/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="FILM ADJA",GALAXY™PREMIUM
 http://103.167.167.5:8111/play/a00s/index.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:SuperSport 1 HD
+http://storeiptv.net:2095/marjo/12345/401
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:SuperSport 2 HD
+http://storeiptv.net:2095/marjo/12345/406
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:SuperSport 3 HD
+http://storeiptv.net:2095/marjo/12345/405
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:SuperSport 4 HD
+http://storeiptv.net:2095/marjo/12345/404
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:SuperSport 5 HD
+http://storeiptv.net:2095/marjo/12345/403
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:TringSport News HD
+http://storeiptv.net:2095/marjo/12345/395
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:TringSport 1 HD
+http://storeiptv.net:2095/marjo/12345/399
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:TringSport 2 HD
+http://storeiptv.net:2095/marjo/12345/398
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:TringSport 3 HD
+http://storeiptv.net:2095/marjo/12345/397
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:TringSport 4 HD
+http://storeiptv.net:2095/marjo/12345/396
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:Rtsh•Sport
+http://storeiptv.net:2095/marjo/12345/409
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:Over•Sport 1
+http://storeiptv.net:2095/marjo/12345/14368
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:Over•Sport 2
+http://storeiptv.net:2095/marjo/12345/14369
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:Over•Sport 3
+http://storeiptv.net:2095/marjo/12345/14370
+#EXTINF:-1  tvg-logo="" group-title="INTER_WORLD",AL:Over•Sport 4
+http://storeiptv.net:2095/marjo/12345/14371
 -------------------------LIVE EVENT---------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423" group-title="LIVE EVENT",Live 1
