@@ -1894,12 +1894,6 @@
 		{
 			"cid": 7,
 			"name": "Sony Pix HD",
-			"typedrm": "CLEARKEY",
-			"useragent": "MNC Now",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/lictoffeelive.php?tekon=altec",
 			"stream_url_1": "https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8",
 			"stream_url": "https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8",
 			"stream_url_2": "https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8"
@@ -1907,12 +1901,6 @@
 		{
 			"cid": 7,
 			"name": "Electric Now HD",
-			"typedrm": "CLEARKEY",
-			"useragent": "MNC Now",
-			"drmuseragent": "MNC Now",
-			"cheada": "Google",
-			"cheadb": "Google",
-			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/lictoffeelive.php?tekon=altec",
 			"stream_url_1": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=53",
 			"stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=53",
 			"stream_url_2": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=53"
