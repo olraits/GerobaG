@@ -1194,11 +1194,6 @@
 		},
 		{
 			"cid": 4,
-			"name": "DMAX",
-			"stream_url": "http://kuchini.site:8080/Johnwick/ba440084b470/158351"
-		},
-		{
-			"cid": 4,
 			"name": "MOTORVISION.TV",
 			"stream_url": "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_motorvisiontv_001.m3u8"
 		},
@@ -1259,7 +1254,11 @@
 			"stream_url_1": "https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8"
 		},
 		{
-			"cid": 5,
+			"cid": 4,
+			"name": "DMAX",
+			"stream_url": "http://kuchini.site:8080/Johnwick/ba440084b470/158351"
+		},
+		{	"cid": 5,
 			"name": "AFN",
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd"
 		},
