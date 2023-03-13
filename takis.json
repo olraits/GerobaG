@@ -2343,8 +2343,10 @@
 		{
 			"cid": 9,
 			"name": "Bein Sports",
-			"stream_url_1": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.mpd",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/BeIN4/sa_dash_vmx/BeIN4.mpd"
+			"stream_url": "http://kuchini.site:8080/Johnwick/ba440084b470/157557",
+			"stream_url_1": "http://kuchini.site:8080/Johnwick/ba440084b470/157557",
+			"stream_url_2": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.mpd",
+			"stream_url_3": "https://av-live-cdn.mncnow.id/live/eds/BeIN4/sa_dash_vmx/BeIN4.mpd"
 		},
 		{
 			"cid": 9,
