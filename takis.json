@@ -2354,16 +2354,16 @@
 		{
 			"cid": 9,
 			"name": "Bein Sports 1",
-			"stream_url_1": "https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd",
+			"stream_url_1": "http://77.207.0.25:4000/play/a038",
+			"stream_url": "http://77.207.0.25:4000/play/a038",
 			"stream_url_2": "https://etslive-2-vidio-com.akamaized.net/drm/dash/6299_stream.mpd",
 			"stream_url_3": "https://mibitivi.xyz/sc/playhls.m3u8?tekon=paseo&channel=bein1"
 		},
 		{
 			"cid": 9,
 			"name": "Bein Sports 3",
-			"stream_url_1": "https://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd",
+			"stream_url_1": "http://176.57.50.167:25461/692803/264908/86861",
+			"stream_url": "http://176.57.50.167:25461/692803/264908/86861",
 			"stream_url_2": "https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd",
 			"stream_url_3": "https://mibitivi.xyz/sc/playhls.m3u8?tekon=paseo&channel=bein2"
 		},
