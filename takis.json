@@ -1244,23 +1244,21 @@
 		},
 		{
 			"cid": 4,
-			"name": "tv Edukasi",
-			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=paseo&channel=tvedukasi"
+			"name": "DMAX",
+			"stream_url": "http://kuchini.site:8080/Johnwick/ba440084b470/158351"
 		},
 		{
 			"cid": 4,
 			"name": "Weather Spy",
 			"stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows",
 			"stream_url_1": "https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8"
+		
 		},
-		{
-			"cid": 4,
-			"name": "DMAX",
-			"stream_url": "http://kuchini.site:8080/Johnwick/ba440084b470/158351"
-		},
-		{	"cid": 5,
+		{	
+			"cid": 5,
 			"name": "AFN",
 			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd"
+			
 		},
 		{
 			"cid": 5,
