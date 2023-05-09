@@ -1244,8 +1244,8 @@
 		},
 		{
 			"cid": 4,
-			"name": "DMAX",
-			"stream_url": "http://kuchini.site:8080/Johnwick/ba440084b470/158351"
+			"name": "DTURBO",
+			"stream_url": "https://kusnadipepenk.github.io/ntn/disturbo.m3u8"
 		},
 		{
 			"cid": 4,
@@ -1289,9 +1289,9 @@
 		},
 		{
 			"cid": 5,
-			"name": "Citra Entertainment",
+			"name": "STAR Muvis",
 			"stream_url_1": "https://mibitivi.xyz/vd/starts.m3u8?tekon=altec&id=eyJ1c2VyX2lkIjogIjQwZGFkMWQ4M2EyYmM4MTciLCAiaWQiOiAzNDQsInRpbWUiOiAxOTYxNzIxODk1fQ==",
-			"stream_url": "https://mibitivi.xyz/vd/ch/play.m3u8?tekon=paseo&channel=6402.m3u8"
+			"stream_url": "https://kusnadipepenk.github.io/ntn/strmvi.m3u8"
 		},
 		{
 			"cid": 5,
@@ -1368,13 +1368,13 @@
 		},
 		{
 			"cid": 5,
-			"name": "M Shope Signature",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd"
+			"name": "&FLIX cine",
+			"stream_url": "https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8"
 		},
 		{
 			"cid": 5,
-			"name": "M Shope Super Sale",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd"
+			"name": "&Prive cine",
+			"stream_url": "https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8"
 		},
 		{
 			"cid": 5,
@@ -1399,9 +1399,9 @@
 		},
 		{
 			"cid": 5,
-			"name": "Pet TV",
+			"name": "AKSI 21 #2",
 			"stream_url_1": "https://mibitivi.xyz/vd/starts.m3u8?tekon=altec&id=eyJ1c2VyX2lkIjogIjQwZGFkMWQ4M2EyYmM4MTciLCAiaWQiOiAxMDcxLCJ0aW1lIjogMTk2MTcyMTg5NX0=",
-			"stream_url": "https://mibitivi.xyz/vd/ch/play.m3u8?tekon=paseo&channel=8556.m3u8"
+			"stream_url": "http://huanqiuzhibo.cn/manifest/douyu.php?id=263824"
 		},
 		{
 			"cid": 5,
@@ -1441,8 +1441,8 @@
 		},
 		{
 			"cid": 5,
-			"name": "SERU CHANNEL",
-			"stream_url": "https://mibitivi.xyz/sc/playhls.m3u8?tekon=paseo&channel=seru"
+			"name": "AKSI 21 CHANNEL",
+			"stream_url": "http://huanqiuzhibo.cn/manifest/douyu.php?id=252802"
 		},
 		{
 			"cid": 5,
@@ -1476,8 +1476,8 @@
 		},
 		{
 			"cid": 5,
-			"name": "The Indonesia Channel",
-			"stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd",
+			"name": "The rawk musik",
+			"stream_url": "https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D",
 			"stream_url_1": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8",
 			"stream_url_2": "https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8"
 		},
