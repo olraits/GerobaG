@@ -1631,7 +1631,7 @@
 		},
 		{
 			"cid": 6,
-			"name": "Legoo Chanel TV",
+			"name": "Lego Chanel TV",
 			"stream_url": "https://legochannel-vizio.amagi.tv/playlist.m3u8"
 		},
 		{
@@ -2298,7 +2298,7 @@
 			"stream_url_3": "https://tvmo.b-cdn.net/hls/channel20.m3u8",
 			"stream_url_2": "http://w.nasvpn.xyz:8080/live/saya/saya/3198.m3u8",
 			"stream_url_5": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/146068",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/my-asp1hd_480/playlist.m3u8"
+			"stream_url": "https://donelfantastic.github.io/creativemedia/hls/asp1cmedia.m3u8"
 		},
 		{
 			"cid": 9,
@@ -2308,7 +2308,7 @@
 			"stream_url_3": "https://tvmo.b-cdn.net/hls/channel21.m3u8",
 			"stream_url_2": "https://iptvfreedotnet8.b-cdn.net/saya/saya/4094",
 			"stream_url_5": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/157556",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/my-asp2hd_480/playlist.m3u8"
+			"stream_url": "https://donelfantastic.github.io/creativemedia/hls/asp2cmedia.m3u8"
 		},
 		{
 			"cid": 9,
@@ -2319,7 +2319,7 @@
 			"stream_url_2": "https://iptvfreedotnet8.b-cdn.net/saya/saya/7209",
 			"stream_url_5": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/157557",
 			"stream_url_6": "http://kuchini.site:8080/Johnwick/ba440084b470/157557",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/my-asp3hd_480/playlist.m3u8"
+			"stream_url": "https://donelfantastic.github.io/creativemedia/hls/asp3cmedia.m3u8"
 		},
 		{
 			"cid": 9,
@@ -2330,7 +2330,7 @@
 			"stream_url_2": "http://w.nasvpn.xyz:8080/live/saya/saya/166.m3u8",
 			"stream_url_4": "https://iptvfreedotnet8.b-cdn.net/saya/saya/7842",
 			"stream_url_6": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/157558",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/my-asp4_480/playlist.m3u8"
+			"stream_url": "https://donelfantastic.github.io/creativemedia/hls/asp4cmedia.m3u8"
 		},
 		{
 			"cid": 9,
@@ -2345,52 +2345,52 @@
 		},
 		{
 			"cid": 9,
-			"name": "Astrox Sports",
+			"name": "Astrox Sports V ",
 			"stream_url_1": "http://kuchini.site:8080/Johnwick/ba440084b470/157557",
-			"stream_url": "http://kuchini.site:8080/Johnwick/ba440084b470/157557",
+			"stream_url": "http://tuyullxt@epg.protv.cc/play/live.php?mac=00:1A:79:B7:CD:49&stream=918982&extension=ts&play_token=tuyullxt@.m3u8",
 			"stream_url_2": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.mpd",
 			"stream_url_3": "https://av-live-cdn.mncnow.id/live/eds/BeIN4/sa_dash_vmx/BeIN4.mpd"
 		},
 		{
 			"cid": 9,
-			"name": "Bein Sports 1",
-			"stream_url": "https://anevia115.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd",
+			"name": "True Prem 1",
+			"stream_url": "http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=tuyullxt@.m3u8",
 			"stream_url_1": "https://av-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd",
 			"stream_url_2": "https://etslive-2-vidio-com.akamaized.net/drm/dash/6299_stream.mpd",
 			"stream_url_3": "https://mibitivi.xyz/sc/playhls.m3u8?tekon=paseo&channel=bein1"
 		},
 		{
 			"cid": 9,
-			"name": "Bein Sports 3",
-			"stream_url": "https://anevia115.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd",
+			"name": "True Prem 2",
+			"stream_url": "http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115508&extension=ts&play_token=tuyullxt@.m3u8",
 			"stream_url_1": "https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd",
 			"stream_url_2": "https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd",
 			"stream_url_3": "https://mibitivi.xyz/sc/playhls.m3u8?tekon=paseo&channel=bein2"
 		},
 		{
 			"cid": 9,
-			"name": "Bein Sports Xtra",
-			"stream_url": "https://siloh-ns1.plutotv.net/lilo/production/bein/1/master.m3u8"
+			"name": "SPOT TH true",
+			"stream_url": "http://tuyullxt@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115304&extension=ts&play_token=tuyullxt@.m3u8"
 		},
 		{
 			"cid": 9,
-			"name": "Bein Sports Xtra CA",
+			"name": "MNC Spor01",
 			"stream_url_1": "http://welovegatos.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8",
 			"stream_url_2": "https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8",
 			"stream_url_3": "https://meumundomaisdigital.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.phphttps://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8",
 			"stream_url_4": "https://aprendagora.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8",
 			"stream_url_5": "https://comprecompedrosantos.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8",
 			"stream_url_6": "https://www.maternidadebemsimples.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8",
-			"stream_url": "https://cassiosmmarketing.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8"
+			"stream_url": "http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=683139&extension=ts&play_token=tuyullxt@.ts"
 		},
 		{
 			"cid": 9,
-			"name": "Bein Sports Xtra ES",
-			"stream_url": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8"
+			"name": "SPOT #2 IDN",
+			"stream_url": "https://kusnadipepenk.github.io/ntn/spotv2.m3u8"
 		},
 		{
 			"cid": 9,
-			"name": "Bein Sports 1 FR",
+			"name": "Sport1 PT",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
@@ -2401,11 +2401,11 @@
 			"stream_url_2": "http://jadetv.de:80/kralkerim/8TKLyJivVEA/63179",
 			"stream_url_3": "http://51.178.65.238/Bein1/index.m3u8",
 			"stream_url_4": "https://hls-m009.live-lv3.canalplus-cdn.net/live/disk/beinsports1-hd/dash-fhddvr/beinsports1-hd.mpd",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/fr-bein1hd_480/playlist.m3u8"
+			"stream_url": "https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv1.m3u8"
 		},
 		{
 			"cid": 9,
-			"name": "Bein Sports 2 FR",
+			"name": "Sports2 PT",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
@@ -2416,11 +2416,11 @@
 			"stream_url_2": "http://jadetv.de:80/kralkerim/8TKLyJivVEA/63180",
 			"stream_url_3": "http://51.178.65.238/Bein2/index.m3u8",
 			"stream_url_4": "https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/beinsports2-hd/dash-fhddvr/beinsports2-hd.mpd",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/fr-bein2hd_480/playlist.m3u8"
+			"stream_url": "https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv2.m3u8"
 		},
 		{
 			"cid": 9,
-			"name": "Bein Sports 3 FR",
+			"name": "Sports 3 PT",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
@@ -2431,18 +2431,18 @@
 			"stream_url_2": "http://jadetv.de:80/kralkerim/8TKLyJivVEA/63181",
 			"stream_url_3": "http://51.178.65.238/Bein3/index.m3u8",
 			"stream_url_4": "https://hls-m003.live-lv3.canalplus-cdn.net/live/disk/beinsports3-hd/dash-fhddvr/beinsports3-hd.mpd",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/fr-bein3hd_480/playlist.m3u8"
+			"stream_url": "https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv3.m3u8"
 		},
 		{
 			"cid": 9,
-			"name": "Bein Sports Max 4 FR",
+			"name": "Sports 4 PT",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=&kid=&tekon=altec",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/fr-beinsportmax4_480/playlist.m3u8"
+			"stream_url": "https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8"
 		},
 		{
 			"cid": 9,
@@ -2488,7 +2488,7 @@
 			"stream_url_5": "http://brtv2021.top:8080/09731247jshf/jGBMjr7B9e/11071",
 			"stream_url_7": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/109",
 			"stream_url_2": "http://31.172.87.47:2200/EX/bein8hd-ar/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA==,165803831455.4814651659=",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/hd-bein11_480/playlist.m3u8"
+			"stream_url": "http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/47269"
 		},
 		{
 			"cid": 9,
@@ -2501,7 +2501,7 @@
 			"stream_url_5": "http://brtv2021.top:8080/09731247jshf/jGBMjr7B9e/11072",
 			"stream_url_7": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/280145",
 			"stream_url_2": "http://31.172.87.47:2200/EX/bein9hd-ar/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA==,165803831455.4814651659=",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/hd-bein12_480/playlist.m3u8"
+			"stream_url": "http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/47270"
 		},
 		{
 			"cid": 9,
@@ -2513,11 +2513,11 @@
 			"stream_url_4": "http://brtv2021.top:8080/09731247jshf/jGBMjr7B9e/11073",
 			"stream_url_6": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/280249",
 			"stream_url_2": "http://31.172.87.47:2200/EX/bein10hd-ar/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA==,165803831455.4814651659=",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/hd-bein10_480/playlist.m3u8"
+			"stream_url": "http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/47271"
 		},
 		{
 			"cid": 9,
-			"name": "Bein Sports 1 AR",
+			"name": "Bein Sports 1 EN",
 			"stream_url_1": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/mhdtvworld.m3u8?tekon=altec&a=258",
 			"stream_url_9": "https://rtmpsrv.speedclick.ps/beIN_Sports1_complexiptv/playlist.m3u8?token=MONITORING",
 			"stream_url_7": "https://s2.geniustvapkdz.com/%D8%A8b%D8%ABe%D8%A5i%D9%86n%D8%B3s%D8%A8p%D8%A3%D9%88o%D8%B1r%D8%AAt/%D8%A8b%D8%A7a%D8%B1r%D8%B3s%D8%A7a%D9%85m%D8%A7a%D8%AFd%D8%B1r%D9%87Yd%D8%AF/405",
@@ -2527,11 +2527,11 @@
 			"stream_url_6": "http://brtv2021.top:8080/09731247jshf/jGBMjr7B9e/11064",
 			"stream_url_8": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/100",
 			"stream_url_2": "http://31.172.87.47:2200/EX/bein1hd-ar/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA==,165803831455.4814651659=",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/hd-bein1_720/playlist.m3u8"
+			"stream_url": "http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/47294"
 		},
 		{
 			"cid": 9,
-			"name": "Bein Sports 2 AR",
+			"name": "Bein Sports 12 EN",
 			"stream_url_1": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/mhdtvworld.m3u8?tekon=altec&a=257",
 			"stream_url_9": "https://rtmpsrv.speedclick.ps/beIN_Sports2_complexiptv/playlist.m3u8?token=MONITORING",
 			"stream_url_7": "https://s2.geniustvapkdz.com/%D8%A8b%D8%ABe%D8%A5i%D9%86n%D8%B3s%D8%A8p%D8%A3%D9%88o%D8%B1r%D8%AAt/%D8%A8b%D8%A7a%D8%B1r%D8%B3s%D8%A7a%D9%85m%D8%A7a%D8%AFd%D8%B1r%D9%87Yd%D8%AF/404",
@@ -2541,11 +2541,11 @@
 			"stream_url_6": "http://brtv2021.top:8080/09731247jshf/jGBMjr7B9e/11065",
 			"stream_url_8": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/101",
 			"stream_url_2": "http://31.172.87.47:2200/EX/bein2hd-ar/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA==,165803831455.4814651659=",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/hd-bein2_480/playlist.m3u8"
+			"stream_url": "http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/146"
 		},
 		{
 			"cid": 9,
-			"name": "Bein Sports 3 AR",
+			"name": "SSC #1",
 			"stream_url_1": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/mhdtvworld.m3u8?tekon=altec&a=433",
 			"stream_url_9": "https://rtmpsrv.speedclick.ps/beIN_Sports3_complexiptv/playlist.m3u8?token=MONITORING",
 			"stream_url_7": "https://s2.geniustvapkdz.com/%D8%A8b%D8%ABe%D8%A5i%D9%86n%D8%B3s%D8%A8p%D8%A3%D9%88o%D8%B1r%D8%AAt/%D8%A8b%D8%A7a%D8%B1r%D8%B3s%D8%A7a%D9%85m%D8%A7a%D8%AFd%D8%B1r%D9%87Yd%D8%AF/342",
@@ -2555,7 +2555,7 @@
 			"stream_url_6": "http://brtv2021.top:8080/09731247jshf/jGBMjr7B9e/11066",
 			"stream_url_8": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/102",
 			"stream_url_2": "http://31.172.87.47:2200/EX/bein3hd-ar/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA==,165803831455.4814651659=",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/hd-bein3_480/playlist.m3u8"
+			"stream_url": "http://obsfullhd.tv:25461/ExchangeBabar/aCbSSBAF7T/64189"
 		},
 		{
 			"cid": 9,
