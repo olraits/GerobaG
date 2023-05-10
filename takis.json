@@ -1277,15 +1277,15 @@
 		},
 		{
 			"cid": 5,
-			"name": "Citra Culinary & Travel",
+			"name": "FX turk",
 			"stream_url_1": "https://mibitivi.xyz/vd/starts.m3u8?tekon=altec&id=eyJ1c2VyX2lkIjogIjQwZGFkMWQ4M2EyYmM4MTciLCAiaWQiOiAxMDczLCJ0aW1lIjogMTk2MTcyMTg5NX0=",
-			"stream_url": "https://mibitivi.xyz/vd/ch/play.m3u8?tekon=paseo&channel=8558.m3u8"
+			"stream_url": "http://49.12.123.148:8989/71/hls/playlist.m3u8"
 		},
 		{
 			"cid": 5,
 			"name": "Citra Dangdut",
 			"stream_url_1": "https://mibitivi.xyz/sc/play.mpd?tekon=paseo&channel=citradangdut",
-			"stream_url": "https://mibitivi.xyz/vd/ch/play.m3u8?tekon=paseo&channel=6587.m3u8"
+			"stream_url": "http://49.12.123.148:8989/22/hls/playlist.m3u8"
 		},
 		{
 			"cid": 5,
