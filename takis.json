@@ -3321,8 +3321,8 @@
 		},
 		{
 			"cid": 9,
-			"name": "Oman Sport",
-			"stream_url": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/index.m3u8"
+			"name": "SSport prime",
+			"stream_url": "http://49.12.123.148:8989/22/hls/playlist.m3u8"
 		},
 		{
 			"cid": 9,
