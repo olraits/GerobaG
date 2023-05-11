@@ -1712,8 +1712,8 @@
 		},
 		{
 			"cid": 7,
-			"name": "ATV",
-			"stream_url": "https://mibitivi.xyz/sc/playhls.m3u8?tekon=paseo&channel=atv"
+			"name": "cinefilm",
+			"stream_url": "https://ca-rt.onetv.app/CineFilm/index-0.m3u8"
 		},
 		{
 			"cid": 7,
@@ -1722,8 +1722,8 @@
 		},
 		{
 			"cid": 7,
-			"name": "Bioskop Indonesia",
-			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=paseo&channel=bioskopindonesia",
+			"name": "24/7 cinebox",
+			"stream_url": "https://hls.247box.live/hls/stream.m3u8",
 			"stream_url_1": "https://hz.mibitivi.xyz/mibi/sc/ch/bioskopindonesia.m3u8?tekon=altec"
 		},
 		{
@@ -1753,20 +1753,20 @@
 		},
 		{
 			"cid": 7,
-			"name": "Citra Bioskop",
+			"name": "&pic IN",
 			"stream_url_1": "https://mibitivi.xyz/vd/starts.m3u8?tekon=altec&id=eyJ1c2VyX2lkIjogIjQwZGFkMWQ4M2EyYmM4MTciLCAiaWQiOiAzODUsInRpbWUiOiAxOTYxNzIxODk1fQ==",
-			"stream_url": "https://mibitivi.xyz/vd/ch/play.m3u8?tekon=paseo&channel=6684.m3u8"
+			"stream_url": "http://208.86.19.13:81/7055.stream/index.m3u8"
 		},
 		{
 			"cid": 7,
-			"name": "Citra Drama",
+			"name": "StarGold select 1",
 			"stream_url_1": "https://mibitivi.xyz/sc/play.mpd?tekon=paseo&channel=cdrama",
-			"stream_url": "https://mibitivi.xyz/vd/ch/play.m3u8?tekon=paseo&channel=6401.m3u8"
+			"stream_url": "http://208.86.19.13:81/7099.stream/index.m3u8"
 		},
 		{
 			"cid": 7,
-			"name": "FLiK",
-			"stream_url": "https://mibitivi.xyz/sc/playhls.m3u8?tekon=paseo&channel=flik",
+			"name": "Fx mov",
+			"stream_url": "https://fxtvhls.wns.live/hls/stream.m3u8",
 			"stream_url_1": "https://hz.mibitivi.xyz/mibi/sc/ch/flik.m3u8?tekon=altec"
 		},
 		{
@@ -1831,10 +1831,10 @@
 		},
 		{
 			"cid": 7,
-			"name": "My Cinema",
+			"name": "ava fams",
 			"stream_url_2": "http://rr.dens.tv/h/h192/index.m3u8",
 			"stream_url_1": "http://rr3.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD",
-			"stream_url": "https://mibitivi.xyz/sc/play1.mpd?tekon=paseo&channel=mycinema",
+			"stream_url": "https://familyhls.avatv.live/hls/stream.m3u8",
 			"stream_url_3": "http://iptvid.my.id/hmm/mycn.m3u8",
 			"stream_url_4": "http://180.211.90.134:8000/play/a080",
 			"stream_url_5": "https://hz.mibitivi.xyz/mibi/sc/iptvid.m3u8?a=mycn&tekon=altec",
@@ -1881,18 +1881,18 @@
 		},
 		{
 			"cid": 7,
-			"name": "Paramount Channel",
+			"name": "Lotus Channel",
 			"stream_url_2": "https://mibitivi.xyz/sc/play1.mpd?tekon=paseo&channel=paramount",
 			"stream_url_3": "http://iptvid.my.id/hmm/paramount.m3u8",
 			"stream_url_1": "https://mibitivi.xyz/vd/starts.mpd?tekon=altec&id=390",
 			"stream_url_4": "https://hz.mibitivi.xyz/mibi/sc/iptvid.m3u8?a=paramount&tekon=altec",
 			"stream_url_5": "https://hz.mibitivi.xyz/mibi/sc/iptvid1.m3u8?a=1&b=1&c=9&tekon=altec",
-			"stream_url": "https://hz.mibitivi.xyz/mibi/sc/ch/paramount.m3u8?tekon=altec"
+			"stream_url": "http://anren.live/HK/BiIOU11uLA.m3u8"
 		},
 		{
 			"cid": 7,
-			"name": "Sinema Indonesia X",
-			"stream_url": "https://bravo.kugo.id/kugo/sindox-udp.stream/playlist.m3u8"
+			"name": "concert cenel",
+			"stream_url": "http://45.5.117.182:8000/play/a0j9/index.m3u8"
 		},
 		{
 			"cid": 7,
@@ -1964,69 +1964,69 @@
 		},
 		{
 			"cid": 8,
-			"name": "MUSICA",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink2.m3u8?tekon=altec&a=UCNlU3oSU8UnJ_V9uMB-cPOg",
+			"name": "MTV00s",
+			"stream_url": "http://45.5.117.182:8000/play/a0if/index.m3u8",
 			"stream_url_1": "https://mibitivi.xyz/vd/chs/play.m3u8?tekon=paseo&channel=7619.m3u8"
 		},
 		{
 			"cid": 8,
-			"name": "Nagaswara",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=Is03gZsBeq0"
+			"name": "80s songs",
+			"stream_url": "http://45.5.117.182:8000/play/a0f2/index.m3u8"
 		},
 		{
 			"cid": 8,
-			"name": "AQUARIUS",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink2.m3u8?tekon=altec&a=UCpJRmMTfdv0iPbnjo6qBw_g"
+			"name": "HITS songs",
+			"stream_url": "http://45.5.117.182:8000/play/a0f1/index.m3u8"
 		},
 		{
 			"cid": 8,
-			"name": "The Good Life",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=36YnV9STBqc"
+			"name": "GlobalBEATS",
+			"stream_url": "http://45.5.117.182:8000/play/a0ie/index.m3u8"
 		},
 		{
 			"cid": 8,
-			"name": "The Good Life - Chillout Lounge",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=9UMxZofMNbA"
+			"name": "Just Musictv",
+			"stream_url": "http://45.5.117.182:8000/play/a0fd/index.m3u8"
 		},
 		{
 			"cid": 8,
-			"name": "The Good Life - Deep House",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=19hKXI1ENrY"
+			"name": "TNT cine full",
+			"stream_url": "http://45.5.117.182:8000/play/a0f4/index.m3u8"
 		},
 		{
 			"cid": 8,
-			"name": "Coffee Shop Vibes",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink2.m3u8?tekon=altec&a=UCJIOFQLGwB3GH9K9waxwynQ"
+			"name": "universal premiere",
+			"stream_url": "http://45.5.117.182:8000/play/a0ig/index.m3u8"
 		},
 		{
 			"cid": 8,
-			"name": "Cafe Music BGMC - Work & Jazz Piano",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=Dx5qFachd3A"
+			"name": "Combate sport",
+			"stream_url": "http://15.235.10.31:14771"
 		},
 		{
 			"cid": 8,
-			"name": "Cafe Music BGMC - Tokyo Cafe",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=6uddGul0oAc"
+			"name": "HBO+",
+			"stream_url": "http://15.235.10.31:14408"
 		},
 		{
 			"cid": 8,
-			"name": "Cafe Music BGMC - Rainy Jazz",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=DSGyEsJ17cI"
+			"name": "sony bbc earth FHD",
+			"stream_url": "https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8"
 		},
 		{
 			"cid": 8,
-			"name": "Cafe Music BGMC - Living Coffee",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=SORD03t7nlo"
+			"name": "sony spor01",
+			"stream_url": "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8"
 		},
 		{
 			"cid": 8,
-			"name": "Cafe Music BGMC - Work Cafe",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=SN-E6bO0Te0"
+			"name": "Sony spor02",
+			"stream_url": "https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8"
 		},
 		{
 			"cid": 8,
-			"name": "Cafe Music BGMC - Disney Jazz",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink.m3u8?tekon=altec&a=2HQag9B4nN0"
+			"name": "sonyspor03",
+			"stream_url": "https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8"
 		},
 		{
 			"cid": 8,
@@ -2050,8 +2050,8 @@
 		},
 		{
 			"cid": 8,
-			"name": "i konser",
-			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=paseo&channel=ikonser",
+			"name": "sonyspor5",
+			"stream_url": "https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
 			"stream_url_1": "http://iptvid.my.id/hmm/ikonser.m3u8",
 			"stream_url_2": "http://180.211.90.134:8000/play/a07d",
 			"stream_url_3": "https://hz.mibitivi.xyz/mibi/sc/iptvid.m3u8?a=ikonser&tekon=altec",
@@ -2060,13 +2060,13 @@
 		},
 		{
 			"cid": 8,
-			"name": "Maleo",
-			"stream_url": "https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8"
+			"name": "PTV spor",
+			"stream_url": "http://175.107.244.52:4457/play/a08g/index.m3u8"
 		},
 		{
 			"cid": 8,
-			"name": "Pop Musik",
-			"stream_url": "https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8"
+			"name": "tlC",
+			"stream_url": "https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrftLzrBLj1tvC5Afbumd0&auth=1ec0667c4e82e3a9a7f2a7af7f37269445eb555ebdc658b1812f52260a850d56"
 		},
 		{
 			"cid": 8,
@@ -2075,13 +2075,13 @@
 		},
 		{
 			"cid": 8,
-			"name": "MTV Live",
+			"name": "VH+1 play",
 			"stream_url_1": "https://mibitivi.xyz/sc/play1.mpd?tekon=paseo&channel=mtvlive",
 			"stream_url_2": "http://iptvid.my.id/hmm/mtv.m3u8",
 			"stream_url_3": "http://180.211.90.134:8000/play/a078",
 			"stream_url_4": "https://hz.mibitivi.xyz/mibi/sc/iptvid.m3u8?a=mtv&tekon=altec",
 			"stream_url_5": "https://hz.mibitivi.xyz/mibi/sc/iptvid1.m3u8?a=1&b=1&c=12&tekon=altec",
-			"stream_url": "https://hz.mibitivi.xyz/mibi/sc/ch/mtvlive.m3u8?tekon=altec"
+			"stream_url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8"
 		},
 		{
 			"cid": 8,
@@ -2105,8 +2105,8 @@
 		},
 		{
 			"cid": 8,
-			"name": "Musik Indonesia",
-			"stream_url": "https://mibitivi.xyz/sc/playhls.m3u8?tekon=paseo&channel=musikindo"
+			"name": "viva pop",
+			"stream_url": "https://live.prd.dlive.tv/hls/live/viva-russia.m3u8"
 		},
 		{
 			"cid": 8,
@@ -2125,8 +2125,8 @@
 		},
 		{
 			"cid": 8,
-			"name": "Prambors TV",
-			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=paseo&channel=pramborstv"
+			"name": "local music tv UK",
+			"stream_url": "https://linear-136.frequency.stream:443/dist/localnow/136/hls/master/playlist.m3u8"
 		},
 		{
 			"cid": 8,
@@ -2250,8 +2250,8 @@
 		},
 		{
 			"cid": 9,
-			"name": "BRI Liga 1 (Live Only) 2",
-			"stream_url": "http://golive.yn.lt/live/liga1/02.m3u8"
+			"name": "local drama/cinema",
+			"stream_url": "https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8"
 		},
 		{
 			"cid": 9,
@@ -2270,26 +2270,26 @@
 		},
 		{
 			"cid": 9,
-			"name": "Astro Arena",
+			"name": "spotKR",
 			"typedrm": "CLEARKEY",
 			"useragent": "com.iptvlink.v14/14.00 (Linux;Android 6.0) ExoPlayerLib/2.14.0",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/my-arena1_480/playlist.m3u8",
+			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd",
 			"stream_url_1": "http://w.nasvpn.xyz:8080/live/saya/saya/167.m3u8"
 		},
 		{
 			"cid": 9,
-			"name": "Astro Arena 2",
+			"name": "spot.kr2",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
-			"stream_url": "http://54.37.82.205:8081/liveorigin/my-arena2_480/playlist.m3u8"
+			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd"
 		},
 		{
 			"cid": 9,
