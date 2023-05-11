@@ -273,7 +273,7 @@
 		{
 			"cid": 0,
 			"name": "tvOne",
-			"stream_url": "https://anevia115.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd",
+			"stream_url":"https://anevia115.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd",
 			"stream_url_1": "https://av-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd",
 			"stream_url_2": "https://raw.githubusercontent.com/bmeidch/ytlok/main/tvone.m3u8",
 			"stream_url_3": "http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8"
