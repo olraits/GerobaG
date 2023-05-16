@@ -1748,7 +1748,7 @@
 		{
 			"cid": 7,
 			"name": "CINEMAX",
-			"stream_url": "https://nxanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/26000"
 		},
 		{
 			"cid": 7,
@@ -1795,7 +1795,7 @@
 		{
 			"cid": 7,
 			"name": "HBO_ID",
-			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/24990"
 		},
 		{
 			"cid": 7,
@@ -1804,13 +1804,28 @@
 		},
 		{
 			"cid": 7,
+			"name": "HBO Family ID",
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/24992"
+		},
+		{
+			"cid": 7,
 			"name": "HBO Hits",
 			"stream_url": "http://208.115.225.174:14165"
 		},
 		{
 			"cid": 7,
+			"name": "HBO Hits ID",
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/24993"
+		},
+		{
+			"cid": 7,
 			"name": "HBO Signature",
 			"stream_url": "http://208.115.225.174:14140"
+		},
+		{
+			"cid": 7,
+			"name": "HBO Signature ID",
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/24991"
 		},
 		{
 			"cid": 7,
@@ -1859,19 +1874,19 @@
 		},
 		{
 			"cid": 7,
-			"name": "My Cinema Asia",
+			"name": "sinema barat01",
 			"stream_url_1": "https://mibitivi.xyz/sc/play1.mpd?tekon=paseo&channel=mycinemaasia",
 			"stream_url_2": "http://iptvid.my.id/hmm/myca.m3u8",
 			"stream_url_3": "http://180.211.90.134:8000/play/a0aa",
 			"stream_url_4": "https://hz.mibitivi.xyz/mibi/sc/iptvid.m3u8?a=myca&tekon=altec",
 			"stream_url_5": "https://hz.mibitivi.xyz/mibi/sc/iptvid1.m3u8?a=1&b=1&c=7&tekon=altec",
 			"stream_url_6": "https://hz.mibitivi.xyz/mibi/sc/ch/mycinemaasia.m3u8?tekon=altec",
-			"stream_url": "http://rr3.dens.tv/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/25983"
 		},
 		{
 			"cid": 7,
-			"name": "My Cinema Europe",
-			"stream_url": "http://rr.dens.tv/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD"
+			"name": "sinema ID02",
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/25988"
 		},
 		{
 			"cid": 7,
@@ -2592,7 +2607,7 @@
 		},
 		{
 			"cid": 9,
-			"name": "Speed tv",
+			"name": "Sinema 03",
 			"stream_url_1": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/mhdtvworld.m3u8?tekon=altec&a=259",
 			"stream_url_9": "https://rtmpsrv.speedclick.ps/beIN_Sports6_complexiptv/playlist.m3u8?token=MONITORING",
 			"stream_url_7": "https://s2.geniustvapkdz.com/%D8%A8b%D8%ABe%D8%A5i%D9%86n%D8%B3s%D8%A8p%D8%A3%D9%88o%D8%B1r%D8%AAt/%D8%A8b%D8%A7a%D8%B1r%D8%B3s%D8%A7a%D9%85m%D8%A7a%D8%AFd%D8%B1r%D9%87Yd%D8%AF/345",
@@ -2602,11 +2617,11 @@
 			"stream_url_6": "http://brtv2021.top:8080/09731247jshf/jGBMjr7B9e/11069",
 			"stream_url_8": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/105",
 			"stream_url_2": "http://31.172.87.47:2200/EX/bein6hd-ar/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA==,165803831455.4814651659=",
-			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/23407"
 		},
 		{
 			"cid": 9,
-			"name": "Racing",
+			"name": "sinema lagi",
 			"stream_url_1": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/mhdtvworld.m3u8?tekon=altec&a=260",
 			"stream_url_9": "https://rtmpsrv.speedclick.ps/beIN_Sports7_complexiptv/playlist.m3u8?token=MONITORING",
 			"stream_url_7": "https://s2.geniustvapkdz.com/%D8%A8b%D8%ABe%D8%A5i%D9%86n%D8%B3s%D8%A8p%D8%A3%D9%88o%D8%B1r%D8%AAt/%D8%A8b%D8%A7a%D8%B1r%D8%B3s%D8%A7a%D9%85m%D8%A7a%D8%AFd%D8%B1r%D9%87Yd%D8%AF/346",
@@ -2616,18 +2631,18 @@
 			"stream_url_6": "http://brtv2021.top:8080/09731247jshf/jGBMjr7B9e/11070",
 			"stream_url_8": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/106",
 			"stream_url_2": "http://31.172.87.47:2200/EX/bein7hd-ar/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA==,165803831455.4814651659=",
-			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/23400"
 		},
 		{
 			"cid": 9,
-			"name": "cyclist",
+			"name": "sinema seramm",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=&kid=&tekon=altec",
-			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729ceb0dd33c1c/manifest.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/39526"
 		},
 		{
 			"cid": 9,
@@ -2769,8 +2784,8 @@
 		},
 		{
 			"cid": 9,
-			"name": "cartoon Premium",
-			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd"
+			"name": "filmPremium",
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/41170"
 		},
 		{
 			"cid": 9,
