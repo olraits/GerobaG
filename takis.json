@@ -2646,51 +2646,51 @@
 		},
 		{
 			"cid": 9,
-			"name": "C More Fotbol",
+			"name": "futbol UK",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=785e0773e9d534a00f4619315674ef7f&kid=c1c657aa160c5b328f1e76747534b913&tekon=altec",
-			"stream_url": "https://lbs-usp-dash-live.cmore.se/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/23426"
 		},
 		{
 			"cid": 9,
-			"name": "DAZN Live 1",
+			"name": "bprem arb 1",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=altec",
-			"stream_url": "https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-019/stream.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/39478"
 		},
 		{
 			"cid": 9,
-			"name": "DAZN Live 2",
+			"name": "bprem arb 2",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=altec",
-			"stream_url": "https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-020/stream.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/39479"
 		},
 		{
 			"cid": 9,
-			"name": "DAZN Live 3",
+			"name": "bprem arb 3",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=altec",
-			"stream_url": "https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-021/stream.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/39480"
 		},
 		{
 			"cid": 9,
-			"name": "DAZN 1 DE",
+			"name": "bprem EN 1",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
@@ -2700,11 +2700,11 @@
 			"stream_url_1": "http://212.29.231.242:8080/btv_447/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi",
 			"stream_url_3": "http://jadetv.de:80/kralkerim/8TKLyJivVEA/95382",
 			"stream_url_2": "http://directtv1.xyz:80/ibrahimluna01/gBYzNDdgX2yx/235376",
-			"stream_url": "https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/39598"
 		},
 		{
 			"cid": 9,
-			"name": "DAZN 2 DE",
+			"name": "nba tvi",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
@@ -2714,7 +2714,7 @@
 			"stream_url_1": "http://212.29.231.242:8080/btv_448/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi",
 			"stream_url_3": "http://jadetv.de:80/kralkerim/8TKLyJivVEA/95383",
 			"stream_url_2": "http://directtv1.xyz:80/ibrahimluna01/gBYzNDdgX2yx/235377",
-			"stream_url": "https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/25219"
 		},
 		{
 			"cid": 9,
@@ -2732,7 +2732,7 @@
 		},
 		{
 			"cid": 9,
-			"name": "DAZN 2 ES",
+			"name": "flik",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
@@ -2742,40 +2742,40 @@
 			"stream_url_1": "http://212.29.231.242:8080/btv_448/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi",
 			"stream_url_3": "http://jadetv.de:80/kralkerim/8TKLyJivVEA/95383",
 			"stream_url_2": "http://directtv1.xyz:80/ibrahimluna01/gBYzNDdgX2yx/235377",
-			"stream_url": "https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/25980"
 		},
 		{
 			"cid": 9,
-			"name": "DAZN F1",
+			"name": "imc",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=altec",
-			"stream_url": "https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/25994"
 		},
 		{
 			"cid": 9,
-			"name": "DAZN LaLiga",
+			"name": "uc spor1",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=altec",
-			"stream_url": "https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/40232"
 		},
 		{
 			"cid": 9,
-			"name": "DAZN ZONA",
+			"name": "uc spor2",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=altec",
-			"stream_url": "https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/40233"
 		},
 		{
 			"cid": 9,
@@ -2789,8 +2789,8 @@
 		},
 		{
 			"cid": 9,
-			"name": "BT spor 1",
-			"stream_url": "http://hostengine.live/live/wrecks82/habsiptv82/53850.m3u8"
+			"name": "USNET ftball",
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/25008"
 		},
 		{
 			"cid": 9,
@@ -3100,14 +3100,14 @@
 		},
 		{
 			"cid": 9,
-			"name": "INTERMILAN TV",
+			"name": "now sporprimeball",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=altec",
-			"stream_url": "https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd"
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/22973"
 		},
 		{
 			"cid": 9,
@@ -3186,13 +3186,13 @@
 		},
 		{
 			"cid": 9,
-			"name": "Monster Jam",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink2.m3u8?tekon=altec&a=UCngNXEVdMZge3OpnD8Ca0Lw"
+			"name": "BT spor1",
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/25101"
 		},
 		{
 			"cid": 9,
-			"name": "MXGP TV",
-			"stream_url": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/streamlink2.m3u8?tekon=altec&a=UCOlCqreTEPtLeuNu3hJhEBQ"
+			"name": "skyprimeball01",
+			"stream_url": "http://goldentv.tech:25461/lauren/lauren/39949"
 		},
 		{
 			"cid": 9,
