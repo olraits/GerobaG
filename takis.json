@@ -1748,7 +1748,7 @@
 		{
 			"cid": 7,
 			"name": "CINEMAX",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd"
 		},
 		{
 			"cid": 7,
@@ -1900,8 +1900,8 @@
 		},
 		{
 			"cid": 7,
-			"name": "Electric Now HD",
-			"stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=53"
+			"name": "Hits NOW",
+			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=hitsnow"
 		},
 		{
 			"cid": 7,
