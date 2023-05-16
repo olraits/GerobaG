@@ -1790,22 +1790,22 @@
 		{
 			"cid": 7,
 			"name": "HBO",
-			"stream_url": "https://nxanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd"
+			"stream_url": "http://assista.live:80/5527988492446/37592011/130603"
 		},
 		{
 			"cid": 7,
 			"name": "HBO Family",
-			"stream_url": "https://nxanv-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd"
+			"stream_url": "http://208.115.225.174:14136"
 		},
 		{
 			"cid": 7,
 			"name": "HBO Hits",
-			"stream_url": "https://nxanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd"
+			"stream_url": "http://208.115.225.174:14165"
 		},
 		{
 			"cid": 7,
 			"name": "HBO Signature",
-			"stream_url": "https://nxanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"
+			"stream_url": "http://208.115.225.174:14140"
 		},
 		{
 			"cid": 7,
@@ -1901,7 +1901,7 @@
 		{
 			"cid": 7,
 			"name": "Hits NOW",
-			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=hitsnow"
+			"stream_url": "http://208.115.225.174:14160"
 		},
 		{
 			"cid": 7,
@@ -2114,8 +2114,8 @@
 		},
 		{
 			"cid": 8,
-			"name": "NG Radio",
-			"stream_url": "http://live.streams.ovh:1935/NGradio/NGradio/chunklist.m3u8"
+			"name": "cinemamov",
+			"stream_url": "http://208.115.225.174:14148"
 		},
 		{
 			"cid": 8,
