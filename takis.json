@@ -1,7 +1,7 @@
 {
   "licenses": [
     {
-      "domain": "https://nxanv-live-cdn.mncnow.id",
+      "domain": "https://cubmu.testapivi.workers.dev/",
       "drm_multi_session": true,
       "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi"
     }
@@ -1791,6 +1791,11 @@
 			"cid": 7,
 			"name": "HBO",
 			"stream_url": "http://assista.live:80/5527988492446/37592011/130603"
+		},
+		{
+			"cid": 7,
+			"name": "HBO_ID",
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd"
 		},
 		{
 			"cid": 7,
