@@ -1790,22 +1790,22 @@
 		{
 			"cid": 7,
 			"name": "HBO",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd"
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd"
 		},
 		{
 			"cid": 7,
 			"name": "HBO Family",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd"
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd"
 		},
 		{
 			"cid": 7,
 			"name": "HBO Hits",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd"
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd"
 		},
 		{
 			"cid": 7,
 			"name": "HBO Signature",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd"
 		},
 		{
 			"cid": 7,
