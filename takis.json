@@ -2254,41 +2254,41 @@
 		},
 		{
 			"cid": 9,
-			"name": "Abu Dhabi Sports 1",
-			"stream_url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
+			"name": "Seru Channel",
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd"
 		},
 		{
 			"cid": 9,
-			"name": "Abu Dhabi Sports 2",
-			"stream_url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"
+			"name": "gossip",
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd"
 		},
 		{
 			"cid": 9,
-			"name": "Abu Dhabi Sports 3",
-			"stream_url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8"
+			"name": "cartoon hd",
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd"
 		},
 		{
 			"cid": 9,
-			"name": "spotKR",
+			"name": "dreamworks",
 			"typedrm": "CLEARKEY",
 			"useragent": "com.iptvlink.v14/14.00 (Linux;Android 6.0) ExoPlayerLib/2.14.0",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
-			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd",
+			"stream_url": "https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=dreamworks",
 			"stream_url_1": "http://w.nasvpn.xyz:8080/live/saya/saya/167.m3u8"
 		},
 		{
 			"cid": 9,
-			"name": "spot.kr2",
+			"name": "song tv",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=altec",
-			"stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd"
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd"
 		},
 		{
 			"cid": 9,
@@ -2587,7 +2587,7 @@
 		},
 		{
 			"cid": 9,
-			"name": "SK sports 1",
+			"name": "Speed tv",
 			"stream_url_1": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/mhdtvworld.m3u8?tekon=altec&a=259",
 			"stream_url_9": "https://rtmpsrv.speedclick.ps/beIN_Sports6_complexiptv/playlist.m3u8?token=MONITORING",
 			"stream_url_7": "https://s2.geniustvapkdz.com/%D8%A8b%D8%ABe%D8%A5i%D9%86n%D8%B3s%D8%A8p%D8%A3%D9%88o%D8%B1r%D8%AAt/%D8%A8b%D8%A7a%D8%B1r%D8%B3s%D8%A7a%D9%85m%D8%A7a%D8%AFd%D8%B1r%D9%87Yd%D8%AF/345",
@@ -2597,11 +2597,11 @@
 			"stream_url_6": "http://brtv2021.top:8080/09731247jshf/jGBMjr7B9e/11069",
 			"stream_url_8": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/105",
 			"stream_url_2": "http://31.172.87.47:2200/EX/bein6hd-ar/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA==,165803831455.4814651659=",
-			"stream_url": "http://hostengine.live/live/wrecks82/habsiptv82/158360.m3u8"
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd"
 		},
 		{
 			"cid": 9,
-			"name": "SK Sport 2",
+			"name": "Racing",
 			"stream_url_1": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/mhdtvworld.m3u8?tekon=altec&a=260",
 			"stream_url_9": "https://rtmpsrv.speedclick.ps/beIN_Sports7_complexiptv/playlist.m3u8?token=MONITORING",
 			"stream_url_7": "https://s2.geniustvapkdz.com/%D8%A8b%D8%ABe%D8%A5i%D9%86n%D8%B3s%D8%A8p%D8%A3%D9%88o%D8%B1r%D8%AAt/%D8%A8b%D8%A7a%D8%B1r%D8%B3s%D8%A7a%D9%85m%D8%A7a%D8%AFd%D8%B1r%D9%87Yd%D8%AF/346",
@@ -2611,18 +2611,18 @@
 			"stream_url_6": "http://brtv2021.top:8080/09731247jshf/jGBMjr7B9e/11070",
 			"stream_url_8": "http://kuchini.site:8080/livetvchannel2021/fe326fcc/106",
 			"stream_url_2": "http://31.172.87.47:2200/EX/bein7hd-ar/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA==,165803831455.4814651659=",
-			"stream_url": "http://hostengine.live/live/wrecks82/habsiptv82/158361.m3u8"
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd"
 		},
 		{
 			"cid": 9,
-			"name": "SK III sport",
+			"name": "cyclist",
 			"typedrm": "CLEARKEY",
 			"useragent": "MNC Now",
 			"drmuseragent": "MNC Now",
 			"cheada": "Google",
 			"cheadb": "Google",
 			"deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=&kid=&tekon=altec",
-			"stream_url": "http://hostengine.live/live/wrecks82/habsiptv82/158362.m3u8"
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729ceb0dd33c1c/manifest.mpd"
 		},
 		{
 			"cid": 9,
@@ -2759,13 +2759,13 @@
 		},
 		{
 			"cid": 9,
-			"name": "SK IV sport",
-			"stream_url": "hhttp://hostengine.live/live/wrecks82/habsiptv82/158363.m3u8"
+			"name": "paramount net..",
+			"stream_url": "https://github.com/mimipipi22/nontontv/raw/main/FMX/paramount.m3u8"
 		},
 		{
 			"cid": 9,
-			"name": "SK sport 5",
-			"stream_url": "http://hostengine.live/live/wrecks82/habsiptv82/158364.m3u8"
+			"name": "cartoon Premium",
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd"
 		},
 		{
 			"cid": 9,
