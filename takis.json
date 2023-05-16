@@ -2,7 +2,7 @@
   "licenses": [
     {
       "domain": "https://av-live-cdn.mncnow.id",
-	    "domain_1": "https://nxanv-live-cdn.mncnow.id", 
+      "domain_1": "https://nxanv-live-cdn.mncnow.id"
       "drm_multi_session": true,
       "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi"
     }
