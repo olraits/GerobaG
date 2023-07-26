@@ -1748,7 +1748,7 @@
 		{
 			"cid": 7,
 			"name": "CINEMAX",
-			"stream_url": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197964"
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd"
 		},
 		{
 			"cid": 7,
@@ -1790,7 +1790,7 @@
 		{
 			"cid": 7,
 			"name": "HBO",
-			"stream_url": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197972"
+			"stream_url": "https://anevia114.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd"
 		},
 		{
 			"cid": 7,
