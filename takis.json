@@ -147,7 +147,7 @@
 			"stream_url": "http://210.210.155.35/session/9daf4816-dff4-11ec-8d27-c81f66f89318/qwr9ew/s/s04/02.m3u8",
 			"stream_url_4": "https://mibitivi.xyz/vd/chs/play.m3u8?tekon=paseo&channel=205.m3u8",
 			"stream_url_6": "http://rr2.dens.tv/s/s04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Indosiar",
-			"stream_url_2": "https://mibitivi.xyz/sc/play.mpd?tekon=paseo&channel=indosiar",
+			"stream_url_2": "https://kusnadipepenk.github.io/campeign/indos.m3u8",
 			"stream_url_3": "http://mpwtv.my.id/vidioye/205-indosiar.m3u8",
 			"stream_url_1": "http://geocities.ws/ariev7xx/indosiar.m3u8",
 			"stream_url_5": "http://210.210.155.35/qwr9ew/s/s04/02.m3u8"
@@ -257,7 +257,7 @@
 		{
 			"cid": 0,
 			"name": "Trans 7",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd",
+			"stream_url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
 			"stream_url_1": "http://anevia114.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd",
 			"stream_url_2": "https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8",
 			"stream_url_3": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
@@ -265,7 +265,7 @@
 		{
 			"cid": 0,
 			"name": "Trans TV",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd",
+			"stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
 			"stream_url_1": "http://anevia114.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd",
 			"stream_url_2": "https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8",
 			"stream_url_3": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
