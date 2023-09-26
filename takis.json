@@ -121,7 +121,7 @@
 		{
 			"cid": 0,
 			"name": "CNN Indonesia",
-			"stream_url": "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8",
+			"stream_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
 			"stream_url_1": "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8",
 			"stream_url_2": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8",
 			"stream_url_3": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8",
@@ -155,7 +155,7 @@
 		{
 			"cid": 0,
 			"name": "iNews",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd",
+			"stream_url": "https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd",
 			"stream_url_1": "http://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd"
 		},
 		{
@@ -167,7 +167,7 @@
 		{
 			"cid": 0,
 			"name": "Kompas TV",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd",
+			"stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8",
 			"stream_url_1": "http://anevia114.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd",
 			"stream_url_2": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8",
 			"stream_url_3": "http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8"
@@ -1748,7 +1748,7 @@
 		{
 			"cid": 7,
 			"name": "CINEMAX",
-			"stream_url": "http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149642"
+			"stream_url": "https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd"
 		},
 		{
 			"cid": 7,
@@ -1795,7 +1795,7 @@
 		{
 			"cid": 7,
 			"name": "HBO_ID",
-			"stream_url": "http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts"
+			"stream_url": "http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197972"
 		},
 		{
 			"cid": 7,
