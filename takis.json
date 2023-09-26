@@ -1696,7 +1696,7 @@
 		{
 			"cid": 7,
 			"name": "ANIMAX",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd"
+			"stream_url": "https://kusnadipepenk.github.io/campeign/amax.m3u8"
 		},
 		{
 			"cid": 7,
@@ -1707,7 +1707,7 @@
 			"stream_url_4": "https://hz.mibitivi.xyz/mibi/sc/iptvid.m3u8?a=aniplus&tekon=altec",
 			"stream_url_5": "https://hz.mibitivi.xyz/mibi/sc/iptvid1.m3u8?a=2&b=2&c=4&tekon=altec",
 			"stream_url_6": "https://hz.mibitivi.xyz/mibi/sc/ch/aniplus.m3u8?tekon=altec",
-			"stream_url": "https://mibitivi.xyz/sc/play2.mpd?tekon=paseo&channel=ANIPLUS_AT"
+			"stream_url": "https://kusnadipepenk.github.io/campeign/anplus.m3u8"
 		},
 		{
 			"cid": 7,
@@ -1717,7 +1717,7 @@
 		{
 			"cid": 7,
 			"name": "AXN",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd"
+			"stream_url": "https://kusnadipepenk.github.io/ntn/axn.m3u8"
 		},
 		{
 			"cid": 7,
