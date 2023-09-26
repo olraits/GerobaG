@@ -132,7 +132,7 @@
 		{
 			"cid": 0,
 			"name": "GTV",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
+			"stream_url": "https://kusnadipepenk.github.io/campeign/global.m3u8",
 			"stream_url_1": "http://anevia114.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
 			"stream_url_2": "https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8"
 		},
@@ -200,7 +200,7 @@
 		{
 			"cid": 0,
 			"name": "MNCTV",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
+			"stream_url": "https://kusnadipepenk.github.io/campeign/mnc.m3u8",
 			"stream_url_1": "https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
 			"stream_url_2": "https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8",
 			"stream_url_3": "http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165054"
@@ -216,7 +216,7 @@
 		{
 			"cid": 0,
 			"name": "Net TV",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd",
+			"stream_url": "https://kusnadipepenk.github.io/campeign/netv.m3u8",
 			"stream_url_1": "http://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd",
 			"stream_url_2": "http://210.210.155.37/qwr9ew/s/s08/index.m3u8"
 		},
@@ -231,9 +231,9 @@
 		{
 			"cid": 0,
 			"name": "RCTI",
-			"stream_url": "https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd",
+			"stream_url": "https://kusnadipepenk.github.io/campeign/rcti.m3u8",
 			"stream_url_1": "https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd",
-			"stream_url_2": "https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd"
+			"stream_url_2": "http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157591"
 		},
 		{
 			"cid": 0,
